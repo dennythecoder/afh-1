@@ -1,6 +1,6 @@
 <template>
 	<div class="home">
-		<h3 @click="debugClicks++"></h3>
+		<h3></h3>
 		<h1>Air Force Handbook 1 </h1>
         <div class="btn-container" >
         <list-button @click="$router.push('toc')" >Chapters</list-button>
@@ -15,11 +15,6 @@
 <script>
 import ListButton from "../components/list-button";
 export default {
-  data() {
-    return {
-      debugClicks: 0
-    };
-  },
   components: {
     ListButton
   },
@@ -27,12 +22,9 @@ export default {
     gotoLastViewed() {
       const lastLocation = localStorage.getItem("lastLocation");
       if (lastLocation) {
-        window.location.hash =
-          "#/reader/" + this.$store.getters.lastLocation.location;
+        const parsed = JSON.parse(lastLocation);
+        window.location.hash = "#/reader/" + parsed.location;
       }
-    },
-    gotoDebug() {
-      console.log("click");
     }
   },
   computed: {
@@ -46,9 +38,6 @@ export default {
     hasHighlights() {
       return this.$store.getters.highlights.length > 0;
     }
-  },
-  mounted() {
-    console.log(this);
   }
 };
 </script>

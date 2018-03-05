@@ -36,9 +36,9 @@
           <q-item-side icon="school" />
           <q-item-main label="Home" />
         </q-item>
-        <q-item @click.native="$router.push({name:'reader'})">
+        <q-item @click.native="$router.push({name:'toc'})">
           <q-item-side icon="code" />
-          <q-item-main label="Reading"  />
+          <q-item-main label="Table of Contents"  />
         </q-item>
       </q-list>
     </q-layout-drawer>

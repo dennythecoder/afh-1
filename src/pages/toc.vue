@@ -17,7 +17,8 @@ export default {
   components: { ListButton },
   methods: {
     gotoChapter(chapter) {
-      this.$router.push({ name: "reader" });
+      const cfi = chapter.cfi.replace(/\//g, "-");
+      this.$router.push({ name: "reader", params: { cfi } });
     }
   },
   computed: {

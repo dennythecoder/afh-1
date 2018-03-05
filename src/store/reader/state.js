@@ -6,6 +6,5 @@ export default {
   chapters: [],
   isBookInitialized: false,
   isTextSelectable: false,
-  searchTerm: "",
   highlightColor: "#3cc"
 };

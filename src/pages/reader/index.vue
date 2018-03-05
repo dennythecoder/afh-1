@@ -2,6 +2,7 @@
 <script>
 import init from "./init";
 import highlights from "./highlights";
+import watch from "./watch";
 
 export default {
   data() {
@@ -33,9 +34,33 @@ export default {
     },
     onHold(e) {
       this.isTextSelectable = true;
+    },
+    gotoCfi(cfi) {
+      // expecting string like this -- epubcfi(/6/2[titlepage]!/4/1:0)
+      return this.book.gotoCfi(cfi.replace(/-/g, "/"));
+    },
+    highlightText(text) {
+      if (!text) return;
+      let doc = document.querySelector("iframe").contentDocument;
+      let paragraphs = doc.querySelectorAll("p");
+      const searchRegExp = new RegExp(text.toLocaleLowerCase(), "ig");
+      for (let i = 0; i < paragraphs.length; i++) {
+        let paragraph = paragraphs[i];
+        paragraph.innerHTML = paragraph.innerHTML.replace(
+          searchRegExp,
+          result => "<mark class='highlight search'>" + result + "</mark>"
+        );
+      }
+    },
+    clearHighlights() {
+      let doc = document.querySelector("iframe").contentDocument;
+      let highlights = doc.querySelectorAll("mark.highlight.search");
+      for (let i = 0; i < highlights.length; i++) {
+        highlights[i].outerHTML = highlights[i].innerHTML;
+      }
     }
   },
-
+  watch,
   mounted() {
     this.$nextTick(() => this.init());
   }

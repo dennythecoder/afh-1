@@ -9,6 +9,7 @@ function addRoute(name, path = "/" + name) {
 
 addRoute("home");
 addRoute("toc");
+addRoute("searcher");
 routes.push({
   path: "/reader/:cfi?",
   name: "reader",
