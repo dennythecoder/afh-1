@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="dbe33890-95b7-4976-aefe-92a43aa7c9b1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.6.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Chapter 17</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uTGsRyfubqi5pM7jrMfck89" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="Chapter%2017%20-%20Dress%20and%20Appearance.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

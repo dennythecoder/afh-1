@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Chapter 21</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Management, Organizational">Organizational Management</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e90f4f76-b31c-4803-a55f-bc98192b3a81</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (3.6.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">e90f4f76-b31c-4803-a55f-bc98192b3a81</dc:identifier>
+    <meta name="calibre:timestamp" content="2017-12-11T17:19:06.122000+00:00"/>
+    <meta name="calibre:title_sort" content="Chapter 21"/>
+    <meta name="calibre:author_link_map" content="{&quot;Organizational Management&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Chapter 21 - Organizational Management_split_000.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Chapter 21 - Organizational Management_split_001.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="image001.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="image002.png" id="added4" media-type="image/png"/>
+    <item href="image003.png" id="added5" media-type="image/png"/>
+    <item href="image004.png" id="added6" media-type="image/png"/>
+    <item href="image005.png" id="added7" media-type="image/png"/>
+    <item href="image007.png" id="added8" media-type="image/png"/>
+    <item href="image009.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="colorschememapping.xml" id="added2" media-type="application/xml"/>
+    <item href="filelist.xml" id="added" media-type="application/xml"/>
+    <item href="themedata.thmx" id="added1" media-type="application/octet-stream"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

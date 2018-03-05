@@ -1,0 +1,172 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Chapter 20</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Knowledge, Air Force">Air Force Knowledge</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (3.6.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3f0ad60a-8453-45b0-850f-0df17f3dfbda</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">3f0ad60a-8453-45b0-850f-0df17f3dfbda</dc:identifier>
+    <meta name="calibre:title_sort" content="Chapter 20"/>
+    <meta name="calibre:timestamp" content="2017-12-11T17:19:03.127000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Air Force Knowledge&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Chapter 20 - Air Force Knowledge_split_000.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Chapter 20 - Air Force Knowledge_split_001.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Chapter 20 - Air Force Knowledge_split_002.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Chapter 20 - Air Force Knowledge_split_003.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Chapter 20 - Air Force Knowledge_split_004.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Chapter 20 - Air Force Knowledge_split_005.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="image001.jpg" id="added" media-type="image/jpeg"/>
+    <item href="image002.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="image003.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="image004.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="image005.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="image006.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="image007.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="image008.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="image009.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="image010.png" id="added9" media-type="image/png"/>
+    <item href="image011.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="image012.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="image013.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="image014.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="image015.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="image016.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="image017.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="image018.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="image019.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="image020.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="image021.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="image022.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="image023.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="image024.jpg" id="added23" media-type="image/jpeg"/>
+    <item href="image025.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="image026.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="image027.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="image028.jpg" id="added27" media-type="image/jpeg"/>
+    <item href="image029.jpg" id="added28" media-type="image/jpeg"/>
+    <item href="image030.jpg" id="added29" media-type="image/jpeg"/>
+    <item href="image031.jpg" id="added30" media-type="image/jpeg"/>
+    <item href="image032.jpg" id="added31" media-type="image/jpeg"/>
+    <item href="image033.jpg" id="added32" media-type="image/jpeg"/>
+    <item href="image034.jpg" id="added33" media-type="image/jpeg"/>
+    <item href="image035.jpg" id="added34" media-type="image/jpeg"/>
+    <item href="image036.jpg" id="added35" media-type="image/jpeg"/>
+    <item href="image037.jpg" id="added36" media-type="image/jpeg"/>
+    <item href="image038.jpg" id="added37" media-type="image/jpeg"/>
+    <item href="image039.jpg" id="added38" media-type="image/jpeg"/>
+    <item href="image040.jpg" id="added39" media-type="image/jpeg"/>
+    <item href="image041.jpg" id="added40" media-type="image/jpeg"/>
+    <item href="image042.jpg" id="added41" media-type="image/jpeg"/>
+    <item href="image043.jpg" id="added42" media-type="image/jpeg"/>
+    <item href="image044.jpg" id="added43" media-type="image/jpeg"/>
+    <item href="image045.jpg" id="added44" media-type="image/jpeg"/>
+    <item href="image046.jpg" id="added45" media-type="image/jpeg"/>
+    <item href="image047.jpg" id="added46" media-type="image/jpeg"/>
+    <item href="image048.jpg" id="added47" media-type="image/jpeg"/>
+    <item href="image049.jpg" id="added48" media-type="image/jpeg"/>
+    <item href="image050.jpg" id="added49" media-type="image/jpeg"/>
+    <item href="image051.jpg" id="added50" media-type="image/jpeg"/>
+    <item href="image052.jpg" id="added51" media-type="image/jpeg"/>
+    <item href="image053.jpg" id="added52" media-type="image/jpeg"/>
+    <item href="image054.jpg" id="added53" media-type="image/jpeg"/>
+    <item href="image055.png" id="added54" media-type="image/png"/>
+    <item href="image056.jpg" id="added55" media-type="image/jpeg"/>
+    <item href="image057.jpg" id="added56" media-type="image/jpeg"/>
+    <item href="image058.jpg" id="added57" media-type="image/jpeg"/>
+    <item href="image059.jpg" id="added58" media-type="image/jpeg"/>
+    <item href="image060.jpg" id="added59" media-type="image/jpeg"/>
+    <item href="image061.jpg" id="added60" media-type="image/jpeg"/>
+    <item href="image062.png" id="added61" media-type="image/png"/>
+    <item href="image063.jpg" id="added62" media-type="image/jpeg"/>
+    <item href="image064.jpg" id="added63" media-type="image/jpeg"/>
+    <item href="image065.jpg" id="added64" media-type="image/jpeg"/>
+    <item href="image066.jpg" id="added65" media-type="image/jpeg"/>
+    <item href="image067.jpg" id="added66" media-type="image/jpeg"/>
+    <item href="image068.jpg" id="added67" media-type="image/jpeg"/>
+    <item href="image069.jpg" id="added68" media-type="image/jpeg"/>
+    <item href="image070.jpg" id="added69" media-type="image/jpeg"/>
+    <item href="image071.png" id="added70" media-type="image/png"/>
+    <item href="image072.jpg" id="added71" media-type="image/jpeg"/>
+    <item href="image073.jpg" id="added72" media-type="image/jpeg"/>
+    <item href="image074.jpg" id="added73" media-type="image/jpeg"/>
+    <item href="image075.jpg" id="added74" media-type="image/jpeg"/>
+    <item href="image076.jpg" id="added75" media-type="image/jpeg"/>
+    <item href="image077.jpg" id="added76" media-type="image/jpeg"/>
+    <item href="image078.png" id="added77" media-type="image/png"/>
+    <item href="image079.png" id="added78" media-type="image/png"/>
+    <item href="image080.png" id="added79" media-type="image/png"/>
+    <item href="image081.png" id="added80" media-type="image/png"/>
+    <item href="image082.png" id="added81" media-type="image/png"/>
+    <item href="image083.jpg" id="added82" media-type="image/jpeg"/>
+    <item href="image084.jpg" id="added83" media-type="image/jpeg"/>
+    <item href="image085.jpg" id="added84" media-type="image/jpeg"/>
+    <item href="image086.png" id="added85" media-type="image/png"/>
+    <item href="image087.jpg" id="added86" media-type="image/jpeg"/>
+    <item href="image088.png" id="added87" media-type="image/png"/>
+    <item href="image089.png" id="added88" media-type="image/png"/>
+    <item href="image090.png" id="added89" media-type="image/png"/>
+    <item href="image091.png" id="added90" media-type="image/png"/>
+    <item href="image092.jpg" id="added91" media-type="image/jpeg"/>
+    <item href="image093.png" id="added92" media-type="image/png"/>
+    <item href="image094.png" id="added93" media-type="image/png"/>
+    <item href="image095.png" id="added94" media-type="image/png"/>
+    <item href="image096.jpg" id="added95" media-type="image/jpeg"/>
+    <item href="image097.jpg" id="added96" media-type="image/jpeg"/>
+    <item href="image098.jpg" id="added97" media-type="image/jpeg"/>
+    <item href="image099.jpg" id="added98" media-type="image/jpeg"/>
+    <item href="image100.jpg" id="added99" media-type="image/jpeg"/>
+    <item href="image101.jpg" id="added100" media-type="image/jpeg"/>
+    <item href="image102.jpg" id="added101" media-type="image/jpeg"/>
+    <item href="image103.jpg" id="added102" media-type="image/jpeg"/>
+    <item href="image104.png" id="added103" media-type="image/png"/>
+    <item href="image105.png" id="added104" media-type="image/png"/>
+    <item href="image106.png" id="added105" media-type="image/png"/>
+    <item href="image107.png" id="added106" media-type="image/png"/>
+    <item href="image108.jpg" id="added107" media-type="image/jpeg"/>
+    <item href="image109.jpg" id="added108" media-type="image/jpeg"/>
+    <item href="image110.jpg" id="added109" media-type="image/jpeg"/>
+    <item href="image111.jpg" id="added110" media-type="image/jpeg"/>
+    <item href="image112.jpg" id="added111" media-type="image/jpeg"/>
+    <item href="image113.jpg" id="added112" media-type="image/jpeg"/>
+    <item href="image114.jpg" id="added113" media-type="image/jpeg"/>
+    <item href="image115.jpg" id="added114" media-type="image/jpeg"/>
+    <item href="image116.jpg" id="added115" media-type="image/jpeg"/>
+    <item href="image117.jpg" id="added116" media-type="image/jpeg"/>
+    <item href="image118.jpg" id="added117" media-type="image/jpeg"/>
+    <item href="image119.jpg" id="added118" media-type="image/jpeg"/>
+    <item href="image120.jpg" id="added119" media-type="image/jpeg"/>
+    <item href="image121.jpg" id="added120" media-type="image/jpeg"/>
+    <item href="image122.jpg" id="added121" media-type="image/jpeg"/>
+    <item href="image123.jpg" id="added122" media-type="image/jpeg"/>
+    <item href="image124.jpg" id="added123" media-type="image/jpeg"/>
+    <item href="image125.jpg" id="added124" media-type="image/jpeg"/>
+    <item href="image126.png" id="added125" media-type="image/png"/>
+    <item href="image127.png" id="added126" media-type="image/png"/>
+    <item href="image128.png" id="added127" media-type="image/png"/>
+    <item href="image129.png" id="added128" media-type="image/png"/>
+    <item href="image130.jpg" id="added129" media-type="image/jpeg"/>
+    <item href="image131.jpg" id="added130" media-type="image/jpeg"/>
+    <item href="image132.jpg" id="added131" media-type="image/jpeg"/>
+    <item href="image133.jpg" id="added132" media-type="image/jpeg"/>
+    <item href="image134.png" id="added133" media-type="image/png"/>
+    <item href="image135.jpg" id="added134" media-type="image/jpeg"/>
+    <item href="image136.jpg" id="added135" media-type="image/jpeg"/>
+    <item href="image137.jpg" id="added136" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

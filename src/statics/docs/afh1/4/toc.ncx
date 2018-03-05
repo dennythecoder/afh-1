@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="520743ea-fc24-4376-b949-09c8c0bfd087" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.6.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Chapter 4</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uwSS6bP4tpTPD97OLVywS49" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="Chapter%204%20-%20Air%20Force%20Doctrine%2c%20Air%20Expeditionary%20Force%20%28AEF%29%2c%20and%20Joint%20Force.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

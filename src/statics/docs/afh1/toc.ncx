@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+   <head>
+      <meta content="epubmerge-uid-1513013153" name="dtb:uid"/>
+      <meta content="2" name="dtb:depth"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Air Force Handbook 1</text>
+   </docTitle>
+   <navMap>
+      <navPoint id="book000" playOrder="1">
+         <navLabel>
+            <text>Chapter 1 - Air Force Heritage</text>
+         </navLabel>
+         <content src="1/Chapter 1 - Air Force Heritage_split_000.htm"/>
+      </navPoint>
+      <navPoint id="book001" playOrder="2">
+         <navLabel>
+            <text>Chapter 2 - Enlisted History</text>
+         </navLabel>
+         <content src="2/Chapter 2 - Enlisted History.htm"/>
+      </navPoint>
+      <navPoint id="book002" playOrder="3">
+         <navLabel>
+            <text>Chapter 3 - Organization</text>
+         </navLabel>
+         <content src="3/Chapter 3 - Organization.htm"/>
+      </navPoint>
+      <navPoint id="book003" playOrder="4">
+         <navLabel>
+            <text>Chapter 4 - Air Force Doctrine, Air Expeditionary Force (AEF)</text>
+         </navLabel>
+         <content src="4/Chapter 4 - Air Force Doctrine, Air Expeditionary Force (AEF), and Joint Force.htm"/>
+      </navPoint>
+      <navPoint id="book004" playOrder="5">
+         <navLabel>
+            <text>Chapter 5 - Emergency Management</text>
+         </navLabel>
+         <content src="5/Chapter 5 - Emergency Management.htm"/>
+      </navPoint>
+      <navPoint id="book005" playOrder="6">
+         <navLabel>
+            <text>Chapter 6 - Standards of Conduct</text>
+         </navLabel>
+         <content src="6/Chapter 6 - Standards of Conduct.htm"/>
+      </navPoint>
+      <navPoint id="book006" playOrder="7">
+         <navLabel>
+            <text>Chapter 7 - Enforcing Standards</text>
+         </navLabel>
+         <content src="7/Chapter 7 - Enforcing Standards and Legal Issues_split_000.htm"/>
+      </navPoint>
+      <navPoint id="book007" playOrder="8">
+         <navLabel>
+            <text>Chapter 8 - Military Customs, Courtesies</text>
+         </navLabel>
+         <content src="8/Chapter 8 - Military Customs, Courtesies, and Protocol for Special Events_split_000.htm"/>
+         <navPoint id="a8u9X3QqHfa8La3U49aKAuFA4" playOrder="9">
+            
+      
+            <navLabel>
+               
+        
+               <text>www.aoc.gov/flags</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="8//PD/2017%20Handbook/06%20Final%20TOC%2c%20Final%20Chapters%20%26%20Attachments/Chapter%208%20MILITARY%20CUSTOMS%2c%20COURTESIES%2c%20AND%20PROTOCOL%20FOR%20SPECIAL%20EVENTS/www.aoc.gov/flags"/>
+            
+    
+         </navPoint>
+         <navPoint id="a8u9UjCrqrfkfmizQjKdGtxWA" playOrder="9">
+            
+      
+            <navLabel>
+               
+        
+               <text>.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="8//PD/2017%20Handbook/06%20Final%20TOC%2c%20Final%20Chapters%20%26%20Attachments/Chapter%208%20MILITARY%20CUSTOMS%2c%20COURTESIES%2c%20AND%20PROTOCOL%20FOR%20SPECIAL%20EVENTS/www.aoc.gov/flags"/>
+            
+    
+         </navPoint>
+      </navPoint>
+      <navPoint id="book008" playOrder="10">
+         <navLabel>
+            <text>Chapter 9 - The Noncommissioned Officer</text>
+         </navLabel>
+         <content src="9/Chapter 9 - The Noncommissioned Officer_split_000.htm"/>
+      </navPoint>
+      <navPoint id="book009" playOrder="11">
+         <navLabel>
+            <text>Chapter 10 - Leadership</text>
+         </navLabel>
+         <content src="10/Chapter 10 - Leadership.htm"/>
+      </navPoint>
+      <navPoint id="book010" playOrder="12">
+         <navLabel>
+            <text>Chapter 11 - Officer</text>
+         </navLabel>
+         <content src="11/Chapter 11 - Officer and Enlisted Evaluation Systems and Civilian Performance Program_split_000.htm"/>
+      </navPoint>
+      <navPoint id="book011" playOrder="13">
+         <navLabel>
+            <text>Chapter 12 - Training</text>
+         </navLabel>
+         <content src="12/Chapter 12 - Training and Education.htm"/>
+      </navPoint>
+      <navPoint id="book012" playOrder="14">
+         <navLabel>
+            <text>Chapter 13 - Resource Management</text>
+         </navLabel>
+         <content src="13/Chapter 13 - Resource Management.htm"/>
+      </navPoint>
+      <navPoint id="book013" playOrder="15">
+         <navLabel>
+            <text>Chapter 14 - Communicating in Today's Air Force</text>
+         </navLabel>
+         <content src="14/Chapter 14 - Communicating in Today's Air Force_split_000.htm"/>
+      </navPoint>
+      <navPoint id="book014" playOrder="16">
+         <navLabel>
+            <text>Chapter 15 - Personnel Programs</text>
+         </navLabel>
+         <content src="15/Chapter 15 - Personnel Programs_split_000.htm"/>
+      </navPoint>
+      <navPoint id="book015" playOrder="17">
+         <navLabel>
+            <text>Chapter 16 - Wing Support</text>
+         </navLabel>
+         <content src="16/Chapter 16 - Wing Support_split_000.htm"/>
+      </navPoint>
+      <navPoint id="book016" playOrder="18">
+         <navLabel>
+            <text>Chapter 17 - Dress</text>
+         </navLabel>
+         <content src="17/Chapter 17 - Dress and Appearance.htm"/>
+      </navPoint>
+      <navPoint id="book017" playOrder="19">
+         <navLabel>
+            <text>Chapter 18 - Fit Force</text>
+         </navLabel>
+         <content src="18/Chapter 18 - Fit Force.htm"/>
+      </navPoint>
+      <navPoint id="book018" playOrder="20">
+         <navLabel>
+            <text>Chapter 19 - Security</text>
+         </navLabel>
+         <content src="19/Chapter 19 - Security.htm"/>
+      </navPoint>
+      <navPoint id="book019" playOrder="21">
+         <navLabel>
+            <text>Chapter 20 - Air Force Knowledge</text>
+         </navLabel>
+         <content src="20/Chapter 20 - Air Force Knowledge_split_000.htm"/>
+      </navPoint>
+      <navPoint id="book020" playOrder="22">
+         <navLabel>
+            <text>Chapter 21 - Organizational Management</text>
+         </navLabel>
+         <content src="21/Chapter 21 - Organizational Management_split_000.htm"/>
+      </navPoint>
+      <navPoint id="book021" playOrder="23">
+         <navLabel>
+            <text>Chapter 22 - Human Resource Development</text>
+         </navLabel>
+         <content src="22/Chapter 22 - Human Resource Development.htm"/>
+      </navPoint>
+      <navPoint id="book022" playOrder="24">
+         <navLabel>
+            <text>Chapter 23 - Critical Thinking</text>
+         </navLabel>
+         <content src="23/Chapter 23 - Critical Thinking and Decision-Making.htm"/>
+      </navPoint>
+      <navPoint id="book023" playOrder="25">
+         <navLabel>
+            <text>Chapter 24 - Studying Effectively</text>
+         </navLabel>
+         <content src="24/Chapter 24 - Studying Effectively.htm"/>
+      </navPoint>
+      <navPoint id="book024" playOrder="26">
+         <navLabel>
+            <text>Chapter 25 - Professionalism</text>
+         </navLabel>
+         <content src="25/Chapter 25 - Professionalism.htm"/>
+      </navPoint>
+   </navMap>
+</ncx>

@@ -1,0 +1,26 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Chapter 23</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Thinking, Critical &amp; Decision-Making">Critical Thinking</dc:creator>
+    <dc:creator opf:role="aut">Decision-Making</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c448765d-01e7-4655-8f94-2fb6fe71ffac</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (3.6.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">c448765d-01e7-4655-8f94-2fb6fe71ffac</dc:identifier>
+    <meta name="calibre:timestamp" content="2017-12-11T17:19:05.563000+00:00"/>
+    <meta name="calibre:title_sort" content="Chapter 23"/>
+    <meta name="calibre:author_link_map" content="{&quot;Decision-Making&quot;: &quot;&quot;, &quot;Critical Thinking&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Chapter 23 - Critical Thinking and Decision-Making.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+  <guide/>
+</package>

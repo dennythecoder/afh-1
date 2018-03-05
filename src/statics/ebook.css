@@ -1,0 +1,11 @@
+a[href^="javascript"]{
+  text-decoration:none;
+  color:black;
+}
+
+::selection{
+  background-color:#3dd;
+}
+p:last-of-type{
+  height:100%;
+}

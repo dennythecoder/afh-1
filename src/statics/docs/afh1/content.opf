@@ -1,0 +1,677 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="epubmerge-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Air Force Handbook 1</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="USAF">USAF</dc:creator>
+    <dc:identifier id="epubmerge-id">epubmerge-uid-1513013153</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (3.6.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:rights>Copyrights as per source stories</dc:rights>
+    <dc:description>Anthology containing:
+
+Chapter 1 by Air Force Heritage
+Chapter 2 by Enlisted History
+Chapter 3 by Organization
+Chapter 4 by Air Force Doctrine, Air Expeditionary Force (AEF) &amp; Joint Force
+Chapter 5 by Emergency Management
+Chapter 6 by Standards of Conduct
+Chapter 7 by Enforcing Standards &amp; Legal Issues
+Chapter 8 by Military Customs, Courtesies &amp; Protocol for Special Events
+Chapter 9 by The Noncommissioned Officer
+Chapter 10 by Leadership
+Chapter 11 by Officer &amp; Enlisted Evaluation Systems &amp; Civilian Performance Program
+Chapter 12 by Training &amp; Education
+Chapter 13 by Resource Management
+Chapter 14 by Communicating in Today's Air Force
+Chapter 15 by Personnel Programs
+Chapter 16 by Wing Support
+Chapter 17 by Dress &amp; Appearance
+Chapter 18 by Fit Force
+Chapter 19 by Security
+Chapter 20 by Air Force Knowledge
+Chapter 21 by Organizational Management
+Chapter 22 by Human Resource Development
+Chapter 23 by Critical Thinking &amp; Decision-Making
+Chapter 24 by Studying Effectively
+Chapter 25 by Professionalism</dc:description>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">937c7bb9-35f9-43cf-b32b-4be4f8818e58</dc:identifier>
+    <meta name="calibre:title_sort" content="Air Force Handbook 1"/>
+    <meta name="calibre:author_link_map" content="{&quot;USAF&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="1/Chapter 1 - Air Force Heritage_split_000.htm" id="a1html2" media-type="application/xhtml+xml"/>
+    <item href="1/Chapter 1 - Air Force Heritage_split_001.htm" id="a1html1" media-type="application/xhtml+xml"/>
+    <item href="2/Chapter 2 - Enlisted History.htm" id="a2html" media-type="application/xhtml+xml"/>
+    <item href="3/Chapter 3 - Organization.htm" id="a3html" media-type="application/xhtml+xml"/>
+    <item href="4/Chapter 4 - Air Force Doctrine, Air Expeditionary Force (AEF), and Joint Force.htm" id="a4html" media-type="application/xhtml+xml"/>
+    <item href="5/Chapter 5 - Emergency Management.htm" id="a5html" media-type="application/xhtml+xml"/>
+    <item href="6/Chapter 6 - Standards of Conduct.htm" id="a6html" media-type="application/xhtml+xml"/>
+    <item href="7/Chapter 7 - Enforcing Standards and Legal Issues_split_000.htm" id="a7html2" media-type="application/xhtml+xml"/>
+    <item href="7/Chapter 7 - Enforcing Standards and Legal Issues_split_001.htm" id="a7html1" media-type="application/xhtml+xml"/>
+    <item href="8/Chapter 8 - Military Customs, Courtesies, and Protocol for Special Events_split_000.htm" id="a8html4" media-type="application/xhtml+xml"/>
+    <item href="8/Chapter 8 - Military Customs, Courtesies, and Protocol for Special Events_split_001.htm" id="a8html3" media-type="application/xhtml+xml"/>
+    <item href="8/Chapter 8 - Military Customs, Courtesies, and Protocol for Special Events_split_002.htm" id="a8html2" media-type="application/xhtml+xml"/>
+    <item href="8/Chapter 8 - Military Customs, Courtesies, and Protocol for Special Events_split_003.htm" id="a8html1" media-type="application/xhtml+xml"/>
+    <item href="9/Chapter 9 - The Noncommissioned Officer_split_000.htm" id="a9html3" media-type="application/xhtml+xml"/>
+    <item href="9/Chapter 9 - The Noncommissioned Officer_split_001.htm" id="a9html2" media-type="application/xhtml+xml"/>
+    <item href="9/Chapter 9 - The Noncommissioned Officer_split_002.htm" id="a9html1" media-type="application/xhtml+xml"/>
+    <item href="10/Chapter 10 - Leadership.htm" id="a10html" media-type="application/xhtml+xml"/>
+    <item href="11/Chapter 11 - Officer and Enlisted Evaluation Systems and Civilian Performance Program_split_000.htm" id="a11html2" media-type="application/xhtml+xml"/>
+    <item href="11/Chapter 11 - Officer and Enlisted Evaluation Systems and Civilian Performance Program_split_001.htm" id="a11html1" media-type="application/xhtml+xml"/>
+    <item href="12/Chapter 12 - Training and Education.htm" id="a12html" media-type="application/xhtml+xml"/>
+    <item href="13/Chapter 13 - Resource Management.htm" id="a13html" media-type="application/xhtml+xml"/>
+    <item href="14/Chapter 14 - Communicating in Today's Air Force_split_000.htm" id="a14html4" media-type="application/xhtml+xml"/>
+    <item href="14/Chapter 14 - Communicating in Today's Air Force_split_001.htm" id="a14html3" media-type="application/xhtml+xml"/>
+    <item href="14/Chapter 14 - Communicating in Today's Air Force_split_002.htm" id="a14html2" media-type="application/xhtml+xml"/>
+    <item href="14/Chapter 14 - Communicating in Today's Air Force_split_003.htm" id="a14html1" media-type="application/xhtml+xml"/>
+    <item href="15/Chapter 15 - Personnel Programs_split_000.htm" id="a15html7" media-type="application/xhtml+xml"/>
+    <item href="15/Chapter 15 - Personnel Programs_split_001.htm" id="a15html6" media-type="application/xhtml+xml"/>
+    <item href="15/Chapter 15 - Personnel Programs_split_002.htm" id="a15html5" media-type="application/xhtml+xml"/>
+    <item href="15/Chapter 15 - Personnel Programs_split_003.htm" id="a15html4" media-type="application/xhtml+xml"/>
+    <item href="15/Chapter 15 - Personnel Programs_split_004.htm" id="a15html3" media-type="application/xhtml+xml"/>
+    <item href="15/Chapter 15 - Personnel Programs_split_005.htm" id="a15html2" media-type="application/xhtml+xml"/>
+    <item href="15/Chapter 15 - Personnel Programs_split_006.htm" id="a15html1" media-type="application/xhtml+xml"/>
+    <item href="16/Chapter 16 - Wing Support_split_000.htm" id="a16html5" media-type="application/xhtml+xml"/>
+    <item href="16/Chapter 16 - Wing Support_split_001.htm" id="a16html4" media-type="application/xhtml+xml"/>
+    <item href="16/Chapter 16 - Wing Support_split_002.htm" id="a16html3" media-type="application/xhtml+xml"/>
+    <item href="16/Chapter 16 - Wing Support_split_003.htm" id="a16html2" media-type="application/xhtml+xml"/>
+    <item href="16/Chapter 16 - Wing Support_split_004.htm" id="a16html1" media-type="application/xhtml+xml"/>
+    <item href="17/Chapter 17 - Dress and Appearance.htm" id="a17html" media-type="application/xhtml+xml"/>
+    <item href="18/Chapter 18 - Fit Force.htm" id="a18html" media-type="application/xhtml+xml"/>
+    <item href="19/Chapter 19 - Security.htm" id="a19html" media-type="application/xhtml+xml"/>
+    <item href="20/Chapter 20 - Air Force Knowledge_split_000.htm" id="a20html6" media-type="application/xhtml+xml"/>
+    <item href="20/Chapter 20 - Air Force Knowledge_split_001.htm" id="a20html5" media-type="application/xhtml+xml"/>
+    <item href="20/Chapter 20 - Air Force Knowledge_split_002.htm" id="a20html4" media-type="application/xhtml+xml"/>
+    <item href="20/Chapter 20 - Air Force Knowledge_split_003.htm" id="a20html3" media-type="application/xhtml+xml"/>
+    <item href="20/Chapter 20 - Air Force Knowledge_split_004.htm" id="a20html2" media-type="application/xhtml+xml"/>
+    <item href="20/Chapter 20 - Air Force Knowledge_split_005.htm" id="a20html1" media-type="application/xhtml+xml"/>
+    <item href="21/Chapter 21 - Organizational Management_split_000.htm" id="a21html2" media-type="application/xhtml+xml"/>
+    <item href="21/Chapter 21 - Organizational Management_split_001.htm" id="a21html1" media-type="application/xhtml+xml"/>
+    <item href="22/Chapter 22 - Human Resource Development.htm" id="a22html" media-type="application/xhtml+xml"/>
+    <item href="23/Chapter 23 - Critical Thinking and Decision-Making.htm" id="a23html" media-type="application/xhtml+xml"/>
+    <item href="24/Chapter 24 - Studying Effectively.htm" id="a24html" media-type="application/xhtml+xml"/>
+    <item href="25/Chapter 25 - Professionalism.htm" id="a25html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="1/page_styles.css" id="a1page_css" media-type="text/css"/>
+    <item href="1/stylesheet.css" id="a1css" media-type="text/css"/>
+    <item href="10/page_styles.css" id="a10page_css" media-type="text/css"/>
+    <item href="10/stylesheet.css" id="a10css" media-type="text/css"/>
+    <item href="11/page_styles.css" id="a11page_css" media-type="text/css"/>
+    <item href="11/stylesheet.css" id="a11css" media-type="text/css"/>
+    <item href="12/page_styles.css" id="a12page_css" media-type="text/css"/>
+    <item href="12/stylesheet.css" id="a12css" media-type="text/css"/>
+    <item href="13/page_styles.css" id="a13page_css" media-type="text/css"/>
+    <item href="13/stylesheet.css" id="a13css" media-type="text/css"/>
+    <item href="14/page_styles.css" id="a14page_css" media-type="text/css"/>
+    <item href="14/stylesheet.css" id="a14css" media-type="text/css"/>
+    <item href="15/page_styles.css" id="a15page_css" media-type="text/css"/>
+    <item href="15/stylesheet.css" id="a15css" media-type="text/css"/>
+    <item href="16/page_styles.css" id="a16page_css" media-type="text/css"/>
+    <item href="16/stylesheet.css" id="a16css" media-type="text/css"/>
+    <item href="17/page_styles.css" id="a17page_css" media-type="text/css"/>
+    <item href="17/stylesheet.css" id="a17css" media-type="text/css"/>
+    <item href="18/page_styles.css" id="a18page_css" media-type="text/css"/>
+    <item href="18/stylesheet.css" id="a18css" media-type="text/css"/>
+    <item href="19/page_styles.css" id="a19page_css" media-type="text/css"/>
+    <item href="19/stylesheet.css" id="a19css" media-type="text/css"/>
+    <item href="2/page_styles.css" id="a2page_css" media-type="text/css"/>
+    <item href="2/stylesheet.css" id="a2css" media-type="text/css"/>
+    <item href="20/page_styles.css" id="a20page_css" media-type="text/css"/>
+    <item href="20/stylesheet.css" id="a20css" media-type="text/css"/>
+    <item href="21/page_styles.css" id="a21page_css" media-type="text/css"/>
+    <item href="21/stylesheet.css" id="a21css" media-type="text/css"/>
+    <item href="22/page_styles.css" id="a22page_css" media-type="text/css"/>
+    <item href="22/stylesheet.css" id="a22css" media-type="text/css"/>
+    <item href="23/page_styles.css" id="a23page_css" media-type="text/css"/>
+    <item href="23/stylesheet.css" id="a23css" media-type="text/css"/>
+    <item href="24/page_styles.css" id="a24page_css" media-type="text/css"/>
+    <item href="24/stylesheet.css" id="a24css" media-type="text/css"/>
+    <item href="25/page_styles.css" id="a25page_css" media-type="text/css"/>
+    <item href="25/stylesheet.css" id="a25css" media-type="text/css"/>
+    <item href="3/page_styles.css" id="a3page_css" media-type="text/css"/>
+    <item href="3/stylesheet.css" id="a3css" media-type="text/css"/>
+    <item href="4/page_styles.css" id="a4page_css" media-type="text/css"/>
+    <item href="4/stylesheet.css" id="a4css" media-type="text/css"/>
+    <item href="5/page_styles.css" id="a5page_css" media-type="text/css"/>
+    <item href="5/stylesheet.css" id="a5css" media-type="text/css"/>
+    <item href="6/page_styles.css" id="a6page_css" media-type="text/css"/>
+    <item href="6/stylesheet.css" id="a6css" media-type="text/css"/>
+    <item href="7/page_styles.css" id="a7page_css" media-type="text/css"/>
+    <item href="7/stylesheet.css" id="a7css" media-type="text/css"/>
+    <item href="8/page_styles.css" id="a8page_css" media-type="text/css"/>
+    <item href="8/stylesheet.css" id="a8css" media-type="text/css"/>
+    <item href="9/page_styles.css" id="a9page_css" media-type="text/css"/>
+    <item href="9/stylesheet.css" id="a9css" media-type="text/css"/>
+    <item href="1/image001.png" id="a1added3" media-type="image/png"/>
+    <item href="1/image002.png" id="a1added4" media-type="image/png"/>
+    <item href="1/image003.png" id="a1added5" media-type="image/png"/>
+    <item href="1/image004.png" id="a1added6" media-type="image/png"/>
+    <item href="1/image005.png" id="a1added7" media-type="image/png"/>
+    <item href="1/image006.png" id="a1added8" media-type="image/png"/>
+    <item href="1/image007.png" id="a1added9" media-type="image/png"/>
+    <item href="1/image008.png" id="a1added10" media-type="image/png"/>
+    <item href="1/image009.png" id="a1added11" media-type="image/png"/>
+    <item href="1/image010.png" id="a1added12" media-type="image/png"/>
+    <item href="1/image011.png" id="a1added13" media-type="image/png"/>
+    <item href="1/image012.png" id="a1added14" media-type="image/png"/>
+    <item href="1/image013.png" id="a1added15" media-type="image/png"/>
+    <item href="1/image014.png" id="a1added16" media-type="image/png"/>
+    <item href="1/image015.png" id="a1added17" media-type="image/png"/>
+    <item href="1/image016.jpg" id="a1added18" media-type="image/jpeg"/>
+    <item href="1/image017.png" id="a1added19" media-type="image/png"/>
+    <item href="1/image018.png" id="a1added20" media-type="image/png"/>
+    <item href="1/image019.png" id="a1added21" media-type="image/png"/>
+    <item href="1/image020.png" id="a1added22" media-type="image/png"/>
+    <item href="1/image021.png" id="a1added23" media-type="image/png"/>
+    <item href="1/image022.jpg" id="a1added24" media-type="image/jpeg"/>
+    <item href="1/image023.png" id="a1added25" media-type="image/png"/>
+    <item href="1/image024.png" id="a1added26" media-type="image/png"/>
+    <item href="1/image025.png" id="a1added27" media-type="image/png"/>
+    <item href="1/image026.png" id="a1added28" media-type="image/png"/>
+    <item href="1/image027.jpg" id="a1added29" media-type="image/jpeg"/>
+    <item href="1/image028.jpg" id="a1added30" media-type="image/jpeg"/>
+    <item href="1/image029.png" id="a1added31" media-type="image/png"/>
+    <item href="1/image030.png" id="a1added32" media-type="image/png"/>
+    <item href="1/image031.png" id="a1added33" media-type="image/png"/>
+    <item href="1/image032.png" id="a1added34" media-type="image/png"/>
+    <item href="1/image033.png" id="a1added35" media-type="image/png"/>
+    <item href="1/image034.png" id="a1added36" media-type="image/png"/>
+    <item href="1/image035.png" id="a1added37" media-type="image/png"/>
+    <item href="1/image036.png" id="a1added38" media-type="image/png"/>
+    <item href="1/image037.png" id="a1added39" media-type="image/png"/>
+    <item href="1/image038.png" id="a1added40" media-type="image/png"/>
+    <item href="1/image039.png" id="a1added41" media-type="image/png"/>
+    <item href="1/image040.png" id="a1added42" media-type="image/png"/>
+    <item href="1/image041.png" id="a1added43" media-type="image/png"/>
+    <item href="1/image042.png" id="a1added44" media-type="image/png"/>
+    <item href="1/image043.png" id="a1added45" media-type="image/png"/>
+    <item href="1/image044.png" id="a1added46" media-type="image/png"/>
+    <item href="1/image045.png" id="a1added47" media-type="image/png"/>
+    <item href="1/image046.png" id="a1added48" media-type="image/png"/>
+    <item href="1/image047.png" id="a1added49" media-type="image/png"/>
+    <item href="1/image048.png" id="a1added50" media-type="image/png"/>
+    <item href="1/image049.png" id="a1added51" media-type="image/png"/>
+    <item href="1/image050.png" id="a1added52" media-type="image/png"/>
+    <item href="1/image051.png" id="a1added53" media-type="image/png"/>
+    <item href="1/image052.png" id="a1added54" media-type="image/png"/>
+    <item href="1/image053.png" id="a1added55" media-type="image/png"/>
+    <item href="1/image054.png" id="a1added56" media-type="image/png"/>
+    <item href="1/image055.png" id="a1added57" media-type="image/png"/>
+    <item href="1/image056.png" id="a1added58" media-type="image/png"/>
+    <item href="1/image057.png" id="a1added59" media-type="image/png"/>
+    <item href="1/image058.png" id="a1added60" media-type="image/png"/>
+    <item href="1/image059.png" id="a1added61" media-type="image/png"/>
+    <item href="1/image060.png" id="a1added62" media-type="image/png"/>
+    <item href="1/image061.png" id="a1added63" media-type="image/png"/>
+    <item href="1/image062.png" id="a1added64" media-type="image/png"/>
+    <item href="1/image063.png" id="a1added65" media-type="image/png"/>
+    <item href="1/image064.png" id="a1added66" media-type="image/png"/>
+    <item href="1/image065.png" id="a1added67" media-type="image/png"/>
+    <item href="1/image066.png" id="a1added68" media-type="image/png"/>
+    <item href="1/image067.png" id="a1added69" media-type="image/png"/>
+    <item href="1/image068.png" id="a1added70" media-type="image/png"/>
+    <item href="1/image069.png" id="a1added71" media-type="image/png"/>
+    <item href="1/image070.png" id="a1added72" media-type="image/png"/>
+    <item href="1/image071.png" id="a1added73" media-type="image/png"/>
+    <item href="1/image072.png" id="a1added74" media-type="image/png"/>
+    <item href="1/image073.jpg" id="a1added75" media-type="image/jpeg"/>
+    <item href="1/image074.png" id="a1added76" media-type="image/png"/>
+    <item href="1/image075.jpg" id="a1added77" media-type="image/jpeg"/>
+    <item href="1/image076.jpg" id="a1added78" media-type="image/jpeg"/>
+    <item href="1/image077.jpg" id="a1added79" media-type="image/jpeg"/>
+    <item href="1/image078.jpg" id="a1added80" media-type="image/jpeg"/>
+    <item href="1/image079.jpg" id="a1added81" media-type="image/jpeg"/>
+    <item href="1/image080.jpg" id="a1added82" media-type="image/jpeg"/>
+    <item href="1/image081.jpg" id="a1added83" media-type="image/jpeg"/>
+    <item href="1/image082.jpg" id="a1added84" media-type="image/jpeg"/>
+    <item href="1/image083.jpg" id="a1added85" media-type="image/jpeg"/>
+    <item href="1/image084.jpg" id="a1added86" media-type="image/jpeg"/>
+    <item href="1/image085.jpg" id="a1added87" media-type="image/jpeg"/>
+    <item href="1/image086.jpg" id="a1added88" media-type="image/jpeg"/>
+    <item href="1/image087.jpg" id="a1added89" media-type="image/jpeg"/>
+    <item href="1/image088.jpg" id="a1added90" media-type="image/jpeg"/>
+    <item href="1/image089.jpg" id="a1added91" media-type="image/jpeg"/>
+    <item href="1/image090.jpg" id="a1added92" media-type="image/jpeg"/>
+    <item href="1/image091.jpg" id="a1added93" media-type="image/jpeg"/>
+    <item href="1/image092.jpg" id="a1added94" media-type="image/jpeg"/>
+    <item href="1/image093.jpg" id="a1added95" media-type="image/jpeg"/>
+    <item href="1/image094.jpg" id="a1added96" media-type="image/jpeg"/>
+    <item href="1/image095.jpg" id="a1added97" media-type="image/jpeg"/>
+    <item href="1/image096.jpg" id="a1added98" media-type="image/jpeg"/>
+    <item href="1/image097.jpg" id="a1added99" media-type="image/jpeg"/>
+    <item href="1/image098.jpg" id="a1added100" media-type="image/jpeg"/>
+    <item href="1/image099.jpg" id="a1added101" media-type="image/jpeg"/>
+    <item href="1/image100.jpg" id="a1added102" media-type="image/jpeg"/>
+    <item href="1/image101.jpg" id="a1added103" media-type="image/jpeg"/>
+    <item href="1/image102.jpg" id="a1added104" media-type="image/jpeg"/>
+    <item href="1/image103.jpg" id="a1added105" media-type="image/jpeg"/>
+    <item href="1/image104.jpg" id="a1added106" media-type="image/jpeg"/>
+    <item href="1/image105.jpg" id="a1added107" media-type="image/jpeg"/>
+    <item href="1/image106.jpg" id="a1added108" media-type="image/jpeg"/>
+    <item href="1/image107.jpg" id="a1added109" media-type="image/jpeg"/>
+    <item href="1/image108.jpg" id="a1added110" media-type="image/jpeg"/>
+    <item href="1/image109.jpg" id="a1added111" media-type="image/jpeg"/>
+    <item href="1/image110.jpg" id="a1added112" media-type="image/jpeg"/>
+    <item href="1/image111.jpg" id="a1added113" media-type="image/jpeg"/>
+    <item href="1/image112.jpg" id="a1added114" media-type="image/jpeg"/>
+    <item href="1/image113.jpg" id="a1added115" media-type="image/jpeg"/>
+    <item href="1/image114.jpg" id="a1added116" media-type="image/jpeg"/>
+    <item href="1/image115.jpg" id="a1added117" media-type="image/jpeg"/>
+    <item href="1/image116.jpg" id="a1added118" media-type="image/jpeg"/>
+    <item href="1/image117.jpg" id="a1added119" media-type="image/jpeg"/>
+    <item href="1/image118.jpg" id="a1added120" media-type="image/jpeg"/>
+    <item href="1/image119.jpg" id="a1added121" media-type="image/jpeg"/>
+    <item href="1/image120.jpg" id="a1added122" media-type="image/jpeg"/>
+    <item href="1/image121.jpg" id="a1added123" media-type="image/jpeg"/>
+    <item href="1/image122.jpg" id="a1added124" media-type="image/jpeg"/>
+    <item href="1/image123.jpg" id="a1added125" media-type="image/jpeg"/>
+    <item href="1/image124.jpg" id="a1added126" media-type="image/jpeg"/>
+    <item href="1/image125.jpg" id="a1added127" media-type="image/jpeg"/>
+    <item href="1/image126.jpg" id="a1added128" media-type="image/jpeg"/>
+    <item href="1/image127.jpg" id="a1added129" media-type="image/jpeg"/>
+    <item href="1/image128.jpg" id="a1added130" media-type="image/jpeg"/>
+    <item href="1/image129.jpg" id="a1added131" media-type="image/jpeg"/>
+    <item href="1/image130.jpg" id="a1added132" media-type="image/jpeg"/>
+    <item href="1/image131.jpg" id="a1added133" media-type="image/jpeg"/>
+    <item href="1/image132.jpg" id="a1added134" media-type="image/jpeg"/>
+    <item href="1/image133.jpg" id="a1added135" media-type="image/jpeg"/>
+    <item href="1/image134.jpg" id="a1added136" media-type="image/jpeg"/>
+    <item href="1/image135.jpg" id="a1added137" media-type="image/jpeg"/>
+    <item href="10/image001.png" id="a10added" media-type="image/png"/>
+    <item href="10/image002.png" id="a10added1" media-type="image/png"/>
+    <item href="13/image001.png" id="a13added" media-type="image/png"/>
+    <item href="13/image002.jpg" id="a13added1" media-type="image/jpeg"/>
+    <item href="13/image003.png" id="a13added2" media-type="image/png"/>
+    <item href="13/image004.png" id="a13added3" media-type="image/png"/>
+    <item href="13/image005.png" id="a13added4" media-type="image/png"/>
+    <item href="14/image003.png" id="a14added3" media-type="image/png"/>
+    <item href="14/image006.png" id="a14added4" media-type="image/png"/>
+    <item href="14/image009.png" id="a14added5" media-type="image/png"/>
+    <item href="14/image011.jpg" id="a14added6" media-type="image/jpeg"/>
+    <item href="14/image013.png" id="a14added7" media-type="image/png"/>
+    <item href="14/image015.png" id="a14added8" media-type="image/png"/>
+    <item href="14/image018.png" id="a14added9" media-type="image/png"/>
+    <item href="15/image001.png" id="a15added" media-type="image/png"/>
+    <item href="16/image003.png" id="a16added3" media-type="image/png"/>
+    <item href="16/image006.png" id="a16added4" media-type="image/png"/>
+    <item href="16/image009.png" id="a16added5" media-type="image/png"/>
+    <item href="16/image012.png" id="a16added6" media-type="image/png"/>
+    <item href="16/image015.png" id="a16added7" media-type="image/png"/>
+    <item href="16/image018.png" id="a16added8" media-type="image/png"/>
+    <item href="18/image003.png" id="a18added3" media-type="image/png"/>
+    <item href="18/image006.png" id="a18added4" media-type="image/png"/>
+    <item href="18/image007.png" id="a18added5" media-type="image/png"/>
+    <item href="19/image003.png" id="a19added3" media-type="image/png"/>
+    <item href="2/image001.png" id="a2added3" media-type="image/png"/>
+    <item href="2/image002.png" id="a2added4" media-type="image/png"/>
+    <item href="2/image003.png" id="a2added5" media-type="image/png"/>
+    <item href="2/image006.jpg" id="a2added9" media-type="image/jpeg"/>
+    <item href="2/image009.jpg" id="a2added12" media-type="image/jpeg"/>
+    <item href="2/image010.jpg" id="a2added6" media-type="image/jpeg"/>
+    <item href="2/image012.jpg" id="a2added13" media-type="image/jpeg"/>
+    <item href="2/image013.jpg" id="a2added8" media-type="image/jpeg"/>
+    <item href="2/image014.png" id="a2added7" media-type="image/png"/>
+    <item href="2/image015.jpg" id="a2added14" media-type="image/jpeg"/>
+    <item href="2/image018.jpg" id="a2added15" media-type="image/jpeg"/>
+    <item href="2/image019.jpg" id="a2added10" media-type="image/jpeg"/>
+    <item href="2/image022.jpg" id="a2added11" media-type="image/jpeg"/>
+    <item href="20/image001.jpg" id="a20added" media-type="image/jpeg"/>
+    <item href="20/image002.jpg" id="a20added1" media-type="image/jpeg"/>
+    <item href="20/image003.jpg" id="a20added2" media-type="image/jpeg"/>
+    <item href="20/image004.jpg" id="a20added3" media-type="image/jpeg"/>
+    <item href="20/image005.jpg" id="a20added4" media-type="image/jpeg"/>
+    <item href="20/image006.jpg" id="a20added5" media-type="image/jpeg"/>
+    <item href="20/image007.jpg" id="a20added6" media-type="image/jpeg"/>
+    <item href="20/image008.jpg" id="a20added7" media-type="image/jpeg"/>
+    <item href="20/image009.jpg" id="a20added8" media-type="image/jpeg"/>
+    <item href="20/image010.png" id="a20added9" media-type="image/png"/>
+    <item href="20/image011.jpg" id="a20added10" media-type="image/jpeg"/>
+    <item href="20/image012.jpg" id="a20added11" media-type="image/jpeg"/>
+    <item href="20/image013.jpg" id="a20added12" media-type="image/jpeg"/>
+    <item href="20/image014.jpg" id="a20added13" media-type="image/jpeg"/>
+    <item href="20/image015.jpg" id="a20added14" media-type="image/jpeg"/>
+    <item href="20/image016.jpg" id="a20added15" media-type="image/jpeg"/>
+    <item href="20/image017.jpg" id="a20added16" media-type="image/jpeg"/>
+    <item href="20/image018.jpg" id="a20added17" media-type="image/jpeg"/>
+    <item href="20/image019.jpg" id="a20added18" media-type="image/jpeg"/>
+    <item href="20/image020.jpg" id="a20added19" media-type="image/jpeg"/>
+    <item href="20/image021.jpg" id="a20added20" media-type="image/jpeg"/>
+    <item href="20/image022.jpg" id="a20added21" media-type="image/jpeg"/>
+    <item href="20/image023.jpg" id="a20added22" media-type="image/jpeg"/>
+    <item href="20/image024.jpg" id="a20added23" media-type="image/jpeg"/>
+    <item href="20/image025.jpg" id="a20added24" media-type="image/jpeg"/>
+    <item href="20/image026.jpg" id="a20added25" media-type="image/jpeg"/>
+    <item href="20/image027.jpg" id="a20added26" media-type="image/jpeg"/>
+    <item href="20/image028.jpg" id="a20added27" media-type="image/jpeg"/>
+    <item href="20/image029.jpg" id="a20added28" media-type="image/jpeg"/>
+    <item href="20/image030.jpg" id="a20added29" media-type="image/jpeg"/>
+    <item href="20/image031.jpg" id="a20added30" media-type="image/jpeg"/>
+    <item href="20/image032.jpg" id="a20added31" media-type="image/jpeg"/>
+    <item href="20/image033.jpg" id="a20added32" media-type="image/jpeg"/>
+    <item href="20/image034.jpg" id="a20added33" media-type="image/jpeg"/>
+    <item href="20/image035.jpg" id="a20added34" media-type="image/jpeg"/>
+    <item href="20/image036.jpg" id="a20added35" media-type="image/jpeg"/>
+    <item href="20/image037.jpg" id="a20added36" media-type="image/jpeg"/>
+    <item href="20/image038.jpg" id="a20added37" media-type="image/jpeg"/>
+    <item href="20/image039.jpg" id="a20added38" media-type="image/jpeg"/>
+    <item href="20/image040.jpg" id="a20added39" media-type="image/jpeg"/>
+    <item href="20/image041.jpg" id="a20added40" media-type="image/jpeg"/>
+    <item href="20/image042.jpg" id="a20added41" media-type="image/jpeg"/>
+    <item href="20/image043.jpg" id="a20added42" media-type="image/jpeg"/>
+    <item href="20/image044.jpg" id="a20added43" media-type="image/jpeg"/>
+    <item href="20/image045.jpg" id="a20added44" media-type="image/jpeg"/>
+    <item href="20/image046.jpg" id="a20added45" media-type="image/jpeg"/>
+    <item href="20/image047.jpg" id="a20added46" media-type="image/jpeg"/>
+    <item href="20/image048.jpg" id="a20added47" media-type="image/jpeg"/>
+    <item href="20/image049.jpg" id="a20added48" media-type="image/jpeg"/>
+    <item href="20/image050.jpg" id="a20added49" media-type="image/jpeg"/>
+    <item href="20/image051.jpg" id="a20added50" media-type="image/jpeg"/>
+    <item href="20/image052.jpg" id="a20added51" media-type="image/jpeg"/>
+    <item href="20/image053.jpg" id="a20added52" media-type="image/jpeg"/>
+    <item href="20/image054.jpg" id="a20added53" media-type="image/jpeg"/>
+    <item href="20/image055.png" id="a20added54" media-type="image/png"/>
+    <item href="20/image056.jpg" id="a20added55" media-type="image/jpeg"/>
+    <item href="20/image057.jpg" id="a20added56" media-type="image/jpeg"/>
+    <item href="20/image058.jpg" id="a20added57" media-type="image/jpeg"/>
+    <item href="20/image059.jpg" id="a20added58" media-type="image/jpeg"/>
+    <item href="20/image060.jpg" id="a20added59" media-type="image/jpeg"/>
+    <item href="20/image061.jpg" id="a20added60" media-type="image/jpeg"/>
+    <item href="20/image062.png" id="a20added61" media-type="image/png"/>
+    <item href="20/image063.jpg" id="a20added62" media-type="image/jpeg"/>
+    <item href="20/image064.jpg" id="a20added63" media-type="image/jpeg"/>
+    <item href="20/image065.jpg" id="a20added64" media-type="image/jpeg"/>
+    <item href="20/image066.jpg" id="a20added65" media-type="image/jpeg"/>
+    <item href="20/image067.jpg" id="a20added66" media-type="image/jpeg"/>
+    <item href="20/image068.jpg" id="a20added67" media-type="image/jpeg"/>
+    <item href="20/image069.jpg" id="a20added68" media-type="image/jpeg"/>
+    <item href="20/image070.jpg" id="a20added69" media-type="image/jpeg"/>
+    <item href="20/image071.png" id="a20added70" media-type="image/png"/>
+    <item href="20/image072.jpg" id="a20added71" media-type="image/jpeg"/>
+    <item href="20/image073.jpg" id="a20added72" media-type="image/jpeg"/>
+    <item href="20/image074.jpg" id="a20added73" media-type="image/jpeg"/>
+    <item href="20/image075.jpg" id="a20added74" media-type="image/jpeg"/>
+    <item href="20/image076.jpg" id="a20added75" media-type="image/jpeg"/>
+    <item href="20/image077.jpg" id="a20added76" media-type="image/jpeg"/>
+    <item href="20/image078.png" id="a20added77" media-type="image/png"/>
+    <item href="20/image079.png" id="a20added78" media-type="image/png"/>
+    <item href="20/image080.png" id="a20added79" media-type="image/png"/>
+    <item href="20/image081.png" id="a20added80" media-type="image/png"/>
+    <item href="20/image082.png" id="a20added81" media-type="image/png"/>
+    <item href="20/image083.jpg" id="a20added82" media-type="image/jpeg"/>
+    <item href="20/image084.jpg" id="a20added83" media-type="image/jpeg"/>
+    <item href="20/image085.jpg" id="a20added84" media-type="image/jpeg"/>
+    <item href="20/image086.png" id="a20added85" media-type="image/png"/>
+    <item href="20/image087.jpg" id="a20added86" media-type="image/jpeg"/>
+    <item href="20/image088.png" id="a20added87" media-type="image/png"/>
+    <item href="20/image089.png" id="a20added88" media-type="image/png"/>
+    <item href="20/image090.png" id="a20added89" media-type="image/png"/>
+    <item href="20/image091.png" id="a20added90" media-type="image/png"/>
+    <item href="20/image092.jpg" id="a20added91" media-type="image/jpeg"/>
+    <item href="20/image093.png" id="a20added92" media-type="image/png"/>
+    <item href="20/image094.png" id="a20added93" media-type="image/png"/>
+    <item href="20/image095.png" id="a20added94" media-type="image/png"/>
+    <item href="20/image096.jpg" id="a20added95" media-type="image/jpeg"/>
+    <item href="20/image097.jpg" id="a20added96" media-type="image/jpeg"/>
+    <item href="20/image098.jpg" id="a20added97" media-type="image/jpeg"/>
+    <item href="20/image099.jpg" id="a20added98" media-type="image/jpeg"/>
+    <item href="20/image100.jpg" id="a20added99" media-type="image/jpeg"/>
+    <item href="20/image101.jpg" id="a20added100" media-type="image/jpeg"/>
+    <item href="20/image102.jpg" id="a20added101" media-type="image/jpeg"/>
+    <item href="20/image103.jpg" id="a20added102" media-type="image/jpeg"/>
+    <item href="20/image104.png" id="a20added103" media-type="image/png"/>
+    <item href="20/image105.png" id="a20added104" media-type="image/png"/>
+    <item href="20/image106.png" id="a20added105" media-type="image/png"/>
+    <item href="20/image107.png" id="a20added106" media-type="image/png"/>
+    <item href="20/image108.jpg" id="a20added107" media-type="image/jpeg"/>
+    <item href="20/image109.jpg" id="a20added108" media-type="image/jpeg"/>
+    <item href="20/image110.jpg" id="a20added109" media-type="image/jpeg"/>
+    <item href="20/image111.jpg" id="a20added110" media-type="image/jpeg"/>
+    <item href="20/image112.jpg" id="a20added111" media-type="image/jpeg"/>
+    <item href="20/image113.jpg" id="a20added112" media-type="image/jpeg"/>
+    <item href="20/image114.jpg" id="a20added113" media-type="image/jpeg"/>
+    <item href="20/image115.jpg" id="a20added114" media-type="image/jpeg"/>
+    <item href="20/image116.jpg" id="a20added115" media-type="image/jpeg"/>
+    <item href="20/image117.jpg" id="a20added116" media-type="image/jpeg"/>
+    <item href="20/image118.jpg" id="a20added117" media-type="image/jpeg"/>
+    <item href="20/image119.jpg" id="a20added118" media-type="image/jpeg"/>
+    <item href="20/image120.jpg" id="a20added119" media-type="image/jpeg"/>
+    <item href="20/image121.jpg" id="a20added120" media-type="image/jpeg"/>
+    <item href="20/image122.jpg" id="a20added121" media-type="image/jpeg"/>
+    <item href="20/image123.jpg" id="a20added122" media-type="image/jpeg"/>
+    <item href="20/image124.jpg" id="a20added123" media-type="image/jpeg"/>
+    <item href="20/image125.jpg" id="a20added124" media-type="image/jpeg"/>
+    <item href="20/image126.png" id="a20added125" media-type="image/png"/>
+    <item href="20/image127.png" id="a20added126" media-type="image/png"/>
+    <item href="20/image128.png" id="a20added127" media-type="image/png"/>
+    <item href="20/image129.png" id="a20added128" media-type="image/png"/>
+    <item href="20/image130.jpg" id="a20added129" media-type="image/jpeg"/>
+    <item href="20/image131.jpg" id="a20added130" media-type="image/jpeg"/>
+    <item href="20/image132.jpg" id="a20added131" media-type="image/jpeg"/>
+    <item href="20/image133.jpg" id="a20added132" media-type="image/jpeg"/>
+    <item href="20/image134.png" id="a20added133" media-type="image/png"/>
+    <item href="20/image135.jpg" id="a20added134" media-type="image/jpeg"/>
+    <item href="20/image136.jpg" id="a20added135" media-type="image/jpeg"/>
+    <item href="20/image137.jpg" id="a20added136" media-type="image/jpeg"/>
+    <item href="21/image001.jpg" id="a21added3" media-type="image/jpeg"/>
+    <item href="21/image002.png" id="a21added4" media-type="image/png"/>
+    <item href="21/image003.png" id="a21added5" media-type="image/png"/>
+    <item href="21/image004.png" id="a21added6" media-type="image/png"/>
+    <item href="21/image005.png" id="a21added7" media-type="image/png"/>
+    <item href="21/image007.png" id="a21added8" media-type="image/png"/>
+    <item href="21/image009.jpg" id="a21added9" media-type="image/jpeg"/>
+    <item href="22/image001.png" id="a22added" media-type="image/png"/>
+    <item href="3/image001.jpg" id="a3added3" media-type="image/jpeg"/>
+    <item href="3/image002.jpg" id="a3added4" media-type="image/jpeg"/>
+    <item href="3/image003.jpg" id="a3added5" media-type="image/jpeg"/>
+    <item href="3/image004.jpg" id="a3added6" media-type="image/jpeg"/>
+    <item href="3/image005.png" id="a3added7" media-type="image/png"/>
+    <item href="3/image006.png" id="a3added8" media-type="image/png"/>
+    <item href="3/image007.jpg" id="a3added9" media-type="image/jpeg"/>
+    <item href="3/image008.png" id="a3added10" media-type="image/png"/>
+    <item href="3/image009.png" id="a3added11" media-type="image/png"/>
+    <item href="3/image010.png" id="a3added12" media-type="image/png"/>
+    <item href="3/image011.jpg" id="a3added13" media-type="image/jpeg"/>
+    <item href="3/image012.jpg" id="a3added14" media-type="image/jpeg"/>
+    <item href="3/image013.png" id="a3added15" media-type="image/png"/>
+    <item href="3/image014.jpg" id="a3added16" media-type="image/jpeg"/>
+    <item href="3/image015.png" id="a3added17" media-type="image/png"/>
+    <item href="3/image016.jpg" id="a3added18" media-type="image/jpeg"/>
+    <item href="3/image017.png" id="a3added19" media-type="image/png"/>
+    <item href="3/image018.png" id="a3added20" media-type="image/png"/>
+    <item href="3/image019.jpg" id="a3added21" media-type="image/jpeg"/>
+    <item href="3/image020.png" id="a3added22" media-type="image/png"/>
+    <item href="4/image001.png" id="a4added" media-type="image/png"/>
+    <item href="4/image002.png" id="a4added1" media-type="image/png"/>
+    <item href="4/image003.png" id="a4added2" media-type="image/png"/>
+    <item href="5/image001.jpg" id="a5added" media-type="image/jpeg"/>
+    <item href="5/image002.png" id="a5added1" media-type="image/png"/>
+    <item href="5/image003.jpg" id="a5added2" media-type="image/jpeg"/>
+    <item href="5/image004.jpg" id="a5added3" media-type="image/jpeg"/>
+    <item href="5/image005.png" id="a5added4" media-type="image/png"/>
+    <item href="7/image001.jpg" id="a7added" media-type="image/jpeg"/>
+    <item href="8/image001.jpg" id="a8added3" media-type="image/jpeg"/>
+    <item href="8/image002.jpg" id="a8added4" media-type="image/jpeg"/>
+    <item href="8/image017.jpg" id="a8added9" media-type="image/jpeg"/>
+    <item href="8/image042.png" id="a8added5" media-type="image/png"/>
+    <item href="8/image043.png" id="a8added6" media-type="image/png"/>
+    <item href="8/image044.png" id="a8added7" media-type="image/png"/>
+    <item href="8/image045.png" id="a8added8" media-type="image/png"/>
+    <item href="8/image046.png" id="a8added10" media-type="image/png"/>
+    <item href="8/image047.png" id="a8added11" media-type="image/png"/>
+    <item href="8/image048.png" id="a8added12" media-type="image/png"/>
+    <item href="8/image049.png" id="a8added13" media-type="image/png"/>
+    <item href="8/image050.png" id="a8added14" media-type="image/png"/>
+    <item href="8/image051.png" id="a8added15" media-type="image/png"/>
+    <item href="8/image052.png" id="a8added16" media-type="image/png"/>
+    <item href="9/image001.png" id="a9added3" media-type="image/png"/>
+    <item href="9/image002.png" id="a9added4" media-type="image/png"/>
+    <item href="9/image003.png" id="a9added5" media-type="image/png"/>
+    <item href="9/image004.png" id="a9added6" media-type="image/png"/>
+    <item href="9/image005.png" id="a9added7" media-type="image/png"/>
+    <item href="9/image006.png" id="a9added8" media-type="image/png"/>
+    <item href="9/image007.png" id="a9added9" media-type="image/png"/>
+    <item href="9/image008.png" id="a9added10" media-type="image/png"/>
+    <item href="9/image009.png" id="a9added11" media-type="image/png"/>
+    <item href="9/image010.png" id="a9added12" media-type="image/png"/>
+    <item href="9/image011.png" id="a9added13" media-type="image/png"/>
+    <item href="9/image012.png" id="a9added14" media-type="image/png"/>
+    <item href="9/image013.png" id="a9added15" media-type="image/png"/>
+    <item href="9/image014.png" id="a9added16" media-type="image/png"/>
+    <item href="9/image015.png" id="a9added17" media-type="image/png"/>
+    <item href="9/image016.png" id="a9added18" media-type="image/png"/>
+    <item href="9/image017.png" id="a9added19" media-type="image/png"/>
+    <item href="9/image018.png" id="a9added20" media-type="image/png"/>
+    <item href="9/image019.png" id="a9added21" media-type="image/png"/>
+    <item href="9/image020.png" id="a9added22" media-type="image/png"/>
+    <item href="9/image021.png" id="a9added23" media-type="image/png"/>
+    <item href="9/image022.png" id="a9added24" media-type="image/png"/>
+    <item href="9/image023.jpg" id="a9added25" media-type="image/jpeg"/>
+    <item href="1/colorschememapping.xml" id="a1added2" media-type="application/xml"/>
+    <item href="1/content.opf" id="a1rootfile" media-type="origrootfile/xml"/>
+    <item href="1/filelist.xml" id="a1added" media-type="application/xml"/>
+    <item href="1/themedata.thmx" id="a1added1" media-type="application/octet-stream"/>
+    <item href="1/toc.ncx" id="a1ncx" media-type="origtocncx/xml"/>
+    <item href="10/content.opf" id="a10rootfile" media-type="origrootfile/xml"/>
+    <item href="10/toc.ncx" id="a10ncx" media-type="origtocncx/xml"/>
+    <item href="11/content.opf" id="a11rootfile" media-type="origrootfile/xml"/>
+    <item href="11/toc.ncx" id="a11ncx" media-type="origtocncx/xml"/>
+    <item href="12/content.opf" id="a12rootfile" media-type="origrootfile/xml"/>
+    <item href="12/toc.ncx" id="a12ncx" media-type="origtocncx/xml"/>
+    <item href="13/content.opf" id="a13rootfile" media-type="origrootfile/xml"/>
+    <item href="13/toc.ncx" id="a13ncx" media-type="origtocncx/xml"/>
+    <item href="14/colorschememapping.xml" id="a14added2" media-type="application/xml"/>
+    <item href="14/content.opf" id="a14rootfile" media-type="origrootfile/xml"/>
+    <item href="14/filelist.xml" id="a14added" media-type="application/xml"/>
+    <item href="14/themedata.thmx" id="a14added1" media-type="application/octet-stream"/>
+    <item href="14/toc.ncx" id="a14ncx" media-type="origtocncx/xml"/>
+    <item href="15/content.opf" id="a15rootfile" media-type="origrootfile/xml"/>
+    <item href="15/toc.ncx" id="a15ncx" media-type="origtocncx/xml"/>
+    <item href="16/colorschememapping.xml" id="a16added2" media-type="application/xml"/>
+    <item href="16/content.opf" id="a16rootfile" media-type="origrootfile/xml"/>
+    <item href="16/filelist.xml" id="a16added" media-type="application/xml"/>
+    <item href="16/themedata.thmx" id="a16added1" media-type="application/octet-stream"/>
+    <item href="16/toc.ncx" id="a16ncx" media-type="origtocncx/xml"/>
+    <item href="17/colorschememapping.xml" id="a17added2" media-type="application/xml"/>
+    <item href="17/content.opf" id="a17rootfile" media-type="origrootfile/xml"/>
+    <item href="17/filelist.xml" id="a17added" media-type="application/xml"/>
+    <item href="17/themedata.thmx" id="a17added1" media-type="application/octet-stream"/>
+    <item href="17/toc.ncx" id="a17ncx" media-type="origtocncx/xml"/>
+    <item href="18/colorschememapping.xml" id="a18added2" media-type="application/xml"/>
+    <item href="18/content.opf" id="a18rootfile" media-type="origrootfile/xml"/>
+    <item href="18/filelist.xml" id="a18added" media-type="application/xml"/>
+    <item href="18/themedata.thmx" id="a18added1" media-type="application/octet-stream"/>
+    <item href="18/toc.ncx" id="a18ncx" media-type="origtocncx/xml"/>
+    <item href="19/colorschememapping.xml" id="a19added2" media-type="application/xml"/>
+    <item href="19/content.opf" id="a19rootfile" media-type="origrootfile/xml"/>
+    <item href="19/filelist.xml" id="a19added" media-type="application/xml"/>
+    <item href="19/themedata.thmx" id="a19added1" media-type="application/octet-stream"/>
+    <item href="19/toc.ncx" id="a19ncx" media-type="origtocncx/xml"/>
+    <item href="2/colorschememapping.xml" id="a2added2" media-type="application/xml"/>
+    <item href="2/content.opf" id="a2rootfile" media-type="origrootfile/xml"/>
+    <item href="2/filelist.xml" id="a2added" media-type="application/xml"/>
+    <item href="2/themedata.thmx" id="a2added1" media-type="application/octet-stream"/>
+    <item href="2/toc.ncx" id="a2ncx" media-type="origtocncx/xml"/>
+    <item href="20/content.opf" id="a20rootfile" media-type="origrootfile/xml"/>
+    <item href="20/toc.ncx" id="a20ncx" media-type="origtocncx/xml"/>
+    <item href="21/colorschememapping.xml" id="a21added2" media-type="application/xml"/>
+    <item href="21/content.opf" id="a21rootfile" media-type="origrootfile/xml"/>
+    <item href="21/filelist.xml" id="a21added" media-type="application/xml"/>
+    <item href="21/themedata.thmx" id="a21added1" media-type="application/octet-stream"/>
+    <item href="21/toc.ncx" id="a21ncx" media-type="origtocncx/xml"/>
+    <item href="22/content.opf" id="a22rootfile" media-type="origrootfile/xml"/>
+    <item href="22/toc.ncx" id="a22ncx" media-type="origtocncx/xml"/>
+    <item href="23/content.opf" id="a23rootfile" media-type="origrootfile/xml"/>
+    <item href="23/toc.ncx" id="a23ncx" media-type="origtocncx/xml"/>
+    <item href="24/colorschememapping.xml" id="a24added2" media-type="application/xml"/>
+    <item href="24/content.opf" id="a24rootfile" media-type="origrootfile/xml"/>
+    <item href="24/filelist.xml" id="a24added" media-type="application/xml"/>
+    <item href="24/themedata.thmx" id="a24added1" media-type="application/octet-stream"/>
+    <item href="24/toc.ncx" id="a24ncx" media-type="origtocncx/xml"/>
+    <item href="25/colorschememapping.xml" id="a25added2" media-type="application/xml"/>
+    <item href="25/content.opf" id="a25rootfile" media-type="origrootfile/xml"/>
+    <item href="25/filelist.xml" id="a25added" media-type="application/xml"/>
+    <item href="25/themedata.thmx" id="a25added1" media-type="application/octet-stream"/>
+    <item href="25/toc.ncx" id="a25ncx" media-type="origtocncx/xml"/>
+    <item href="3/colorschememapping.xml" id="a3added2" media-type="application/xml"/>
+    <item href="3/content.opf" id="a3rootfile" media-type="origrootfile/xml"/>
+    <item href="3/filelist.xml" id="a3added" media-type="application/xml"/>
+    <item href="3/themedata.thmx" id="a3added1" media-type="application/octet-stream"/>
+    <item href="3/toc.ncx" id="a3ncx" media-type="origtocncx/xml"/>
+    <item href="4/content.opf" id="a4rootfile" media-type="origrootfile/xml"/>
+    <item href="4/toc.ncx" id="a4ncx" media-type="origtocncx/xml"/>
+    <item href="5/content.opf" id="a5rootfile" media-type="origrootfile/xml"/>
+    <item href="5/toc.ncx" id="a5ncx" media-type="origtocncx/xml"/>
+    <item href="6/colorschememapping.xml" id="a6added2" media-type="application/xml"/>
+    <item href="6/content.opf" id="a6rootfile" media-type="origrootfile/xml"/>
+    <item href="6/filelist.xml" id="a6added" media-type="application/xml"/>
+    <item href="6/themedata.thmx" id="a6added1" media-type="application/octet-stream"/>
+    <item href="6/toc.ncx" id="a6ncx" media-type="origtocncx/xml"/>
+    <item href="7/content.opf" id="a7rootfile" media-type="origrootfile/xml"/>
+    <item href="7/toc.ncx" id="a7ncx" media-type="origtocncx/xml"/>
+    <item href="8/colorschememapping.xml" id="a8added2" media-type="application/xml"/>
+    <item href="8/content.opf" id="a8rootfile" media-type="origrootfile/xml"/>
+    <item href="8/filelist.xml" id="a8added" media-type="application/xml"/>
+    <item href="8/themedata.thmx" id="a8added1" media-type="application/octet-stream"/>
+    <item href="8/toc.ncx" id="a8ncx" media-type="origtocncx/xml"/>
+    <item href="9/colorschememapping.xml" id="a9added2" media-type="application/xml"/>
+    <item href="9/content.opf" id="a9rootfile" media-type="origrootfile/xml"/>
+    <item href="9/filelist.xml" id="a9added" media-type="application/xml"/>
+    <item href="9/themedata.thmx" id="a9added1" media-type="application/octet-stream"/>
+    <item href="9/toc.ncx" id="a9ncx" media-type="origtocncx/xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="a1html2" linear="yes"/>
+    <itemref idref="a1html1" linear="yes"/>
+    <itemref idref="a2html" linear="yes"/>
+    <itemref idref="a3html" linear="yes"/>
+    <itemref idref="a4html" linear="yes"/>
+    <itemref idref="a5html" linear="yes"/>
+    <itemref idref="a6html" linear="yes"/>
+    <itemref idref="a7html2" linear="yes"/>
+    <itemref idref="a7html1" linear="yes"/>
+    <itemref idref="a8html4" linear="yes"/>
+    <itemref idref="a8html3" linear="yes"/>
+    <itemref idref="a8html2" linear="yes"/>
+    <itemref idref="a8html1" linear="yes"/>
+    <itemref idref="a9html3" linear="yes"/>
+    <itemref idref="a9html2" linear="yes"/>
+    <itemref idref="a9html1" linear="yes"/>
+    <itemref idref="a10html" linear="yes"/>
+    <itemref idref="a11html2" linear="yes"/>
+    <itemref idref="a11html1" linear="yes"/>
+    <itemref idref="a12html" linear="yes"/>
+    <itemref idref="a13html" linear="yes"/>
+    <itemref idref="a14html4" linear="yes"/>
+    <itemref idref="a14html3" linear="yes"/>
+    <itemref idref="a14html2" linear="yes"/>
+    <itemref idref="a14html1" linear="yes"/>
+    <itemref idref="a15html7" linear="yes"/>
+    <itemref idref="a15html6" linear="yes"/>
+    <itemref idref="a15html5" linear="yes"/>
+    <itemref idref="a15html4" linear="yes"/>
+    <itemref idref="a15html3" linear="yes"/>
+    <itemref idref="a15html2" linear="yes"/>
+    <itemref idref="a15html1" linear="yes"/>
+    <itemref idref="a16html5" linear="yes"/>
+    <itemref idref="a16html4" linear="yes"/>
+    <itemref idref="a16html3" linear="yes"/>
+    <itemref idref="a16html2" linear="yes"/>
+    <itemref idref="a16html1" linear="yes"/>
+    <itemref idref="a17html" linear="yes"/>
+    <itemref idref="a18html" linear="yes"/>
+    <itemref idref="a19html" linear="yes"/>
+    <itemref idref="a20html6" linear="yes"/>
+    <itemref idref="a20html5" linear="yes"/>
+    <itemref idref="a20html4" linear="yes"/>
+    <itemref idref="a20html3" linear="yes"/>
+    <itemref idref="a20html2" linear="yes"/>
+    <itemref idref="a20html1" linear="yes"/>
+    <itemref idref="a21html2" linear="yes"/>
+    <itemref idref="a21html1" linear="yes"/>
+    <itemref idref="a22html" linear="yes"/>
+    <itemref idref="a23html" linear="yes"/>
+    <itemref idref="a24html" linear="yes"/>
+    <itemref idref="a25html" linear="yes"/>
+  </spine>
+</package>

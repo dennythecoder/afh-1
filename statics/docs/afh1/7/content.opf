@@ -1,0 +1,29 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Chapter 7</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Standards, Enforcing &amp; Issues, Legal">Enforcing Standards</dc:creator>
+    <dc:creator opf:role="aut">Legal Issues</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">009efd67-bead-4144-bc9e-2e9f9f10c661</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (3.6.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">009efd67-bead-4144-bc9e-2e9f9f10c661</dc:identifier>
+    <meta name="calibre:timestamp" content="2017-12-11T17:19:03.555000+00:00"/>
+    <meta name="calibre:title_sort" content="Chapter 7"/>
+    <meta name="calibre:author_link_map" content="{&quot;Legal Issues&quot;: &quot;&quot;, &quot;Enforcing Standards&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Chapter 7 - Enforcing Standards and Legal Issues_split_000.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Chapter 7 - Enforcing Standards and Legal Issues_split_001.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="image001.jpg" id="added" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

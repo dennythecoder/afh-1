@@ -1,0 +1,29 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Chapter 4</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Air Force Doctrine, Air Expeditionary Force (AEF) &amp; Force, Joint">Air Force Doctrine, Air Expeditionary Force (AEF)</dc:creator>
+    <dc:creator opf:role="aut">Joint Force</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (3.6.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">520743ea-fc24-4376-b949-09c8c0bfd087</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">520743ea-fc24-4376-b949-09c8c0bfd087</dc:identifier>
+    <meta name="calibre:title_sort" content="Chapter 4"/>
+    <meta name="calibre:timestamp" content="2017-12-11T17:19:04.680000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Joint Force&quot;: &quot;&quot;, &quot;Air Force Doctrine, Air Expeditionary Force (AEF)&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Chapter 4 - Air Force Doctrine, Air Expeditionary Force (AEF), and Joint Force.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="image001.png" id="added" media-type="image/png"/>
+    <item href="image002.png" id="added1" media-type="image/png"/>
+    <item href="image003.png" id="added2" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+  <guide/>
+</package>

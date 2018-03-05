@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="a80c39ab-0430-42ba-b7dd-20ad850afcc6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.6.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Chapter 1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8LnAFwLlZyo9uLLTxctkC2" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="Chapter%201%20-%20Air%20Force%20Heritage_split_000.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

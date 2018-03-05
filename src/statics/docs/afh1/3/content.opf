@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Chapter 3</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Organization">Organization</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (3.6.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b4bb5f3e-302d-49d7-aede-d59566edd01d</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">b4bb5f3e-302d-49d7-aede-d59566edd01d</dc:identifier>
+    <meta name="calibre:timestamp" content="2017-12-11T17:19:04.918000+00:00"/>
+    <meta name="calibre:title_sort" content="Chapter 3"/>
+    <meta name="calibre:author_link_map" content="{&quot;Organization&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Chapter 3 - Organization.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="image001.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="image002.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="image003.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="image004.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="image005.png" id="added7" media-type="image/png"/>
+    <item href="image006.png" id="added8" media-type="image/png"/>
+    <item href="image007.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="image008.png" id="added10" media-type="image/png"/>
+    <item href="image009.png" id="added11" media-type="image/png"/>
+    <item href="image010.png" id="added12" media-type="image/png"/>
+    <item href="image011.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="image012.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="image013.png" id="added15" media-type="image/png"/>
+    <item href="image014.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="image015.png" id="added17" media-type="image/png"/>
+    <item href="image016.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="image017.png" id="added19" media-type="image/png"/>
+    <item href="image018.png" id="added20" media-type="image/png"/>
+    <item href="image019.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="image020.png" id="added22" media-type="image/png"/>
+    <item href="colorschememapping.xml" id="added2" media-type="application/xml"/>
+    <item href="filelist.xml" id="added" media-type="application/xml"/>
+    <item href="themedata.thmx" id="added1" media-type="application/octet-stream"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+  <guide/>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="e90f4f76-b31c-4803-a55f-bc98192b3a81" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.6.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Chapter 21</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uOrcfyz3TRrIsKwiYTV5Yi5" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="Chapter%2021%20-%20Organizational%20Management_split_000.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

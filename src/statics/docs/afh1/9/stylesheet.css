@@ -1,0 +1,3047 @@
+.calibre {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre2 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre3 {
+    float: left;
+    height: 363px;
+    line-height: 1.2;
+    width: 631px
+    }
+.calibre4 {
+    font-family: "Calibri", sans-serif;
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre5 {
+    height: 383px;
+    line-height: 1.2;
+    width: 625px
+    }
+.calibre6 {
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.calibre7 {
+    height: 216px;
+    line-height: 1.2;
+    width: 128px
+    }
+.calibre8 {
+    color: blue;
+    line-height: 1.2
+    }
+.calibre9 {
+    height: 246px;
+    line-height: 1.2;
+    width: 162px
+    }
+.calibre10 {
+    height: 246px;
+    line-height: 1.2;
+    width: 159px
+    }
+.calibre11 {
+    height: 246px;
+    line-height: 1.2;
+    width: 161px
+    }
+.calibre12 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2
+    }
+.calibre13 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre14 {
+    height: 245px;
+    line-height: 1.2;
+    width: 161px
+    }
+.calibre15 {
+    color: red;
+    line-height: 1.2
+    }
+.calibre16 {
+    font-size: 0.83333em;
+    line-height: 1.2
+    }
+.calibre17 {
+    height: 246px;
+    line-height: 1.2;
+    width: 160px
+    }
+.calibre18 {
+    font-size: 0.83333em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre19 {
+    font-family: "Arial", sans-serif;
+    line-height: 1.2
+    }
+.calibre20 {
+    height: 271px;
+    line-height: 1.2;
+    width: 161px
+    }
+.calibre21 {
+    font-size: 0.75em;
+    line-height: 1.2
+    }
+.calibre22 {
+    font-size: 1.55em;
+    line-height: 1.2
+    }
+.calibre23 {
+    height: 245px;
+    line-height: 1.2;
+    width: 162px
+    }
+.calibre24 {
+    height: 210px;
+    line-height: 1.2;
+    width: 273px
+    }
+.calibre25 {
+    color: black;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre26 {
+    font-family: "Arial", sans-serif;
+    font-size: 0.83333em;
+    line-height: 1.2
+    }
+.calibre27 {
+    height: 504px;
+    line-height: 1.2;
+    width: 624px
+    }
+.calibre28 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre29 {
+    display: table-row;
+    height: 11.5pt;
+    vertical-align: inherit
+    }
+.calibre30 {
+    background: silver;
+    display: table-cell;
+    height: 11.5pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.3pt;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border: black solid 1.5pt
+    }
+.calibre31 {
+    background: silver;
+    display: table-cell;
+    height: 11.5pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 1in;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: black solid 1.5pt;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre32 {
+    background: silver;
+    display: table-cell;
+    height: 11.5pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 314.85pt;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: black solid 1.5pt;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre33 {
+    display: table-row;
+    height: 29pt;
+    vertical-align: inherit
+    }
+.calibre34 {
+    display: table-cell;
+    height: 29pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.3pt;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: black solid 1.5pt
+    }
+.calibre35 {
+    display: table-cell;
+    height: 29pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 1in;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre36 {
+    display: table-cell;
+    height: 29pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 314.85pt;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre37 {
+    font-family: "Segoe UI Symbol", sans-serif;
+    font-size: 0.83333em;
+    line-height: 1.2
+    }
+.calibre38 {
+    display: table-row;
+    height: 18.5pt;
+    vertical-align: inherit
+    }
+.calibre39 {
+    display: table-cell;
+    height: 18.5pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 314.85pt;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre40 {
+    display: table-row;
+    height: 18.6pt;
+    vertical-align: inherit
+    }
+.calibre41 {
+    display: table-cell;
+    height: 18.6pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 314.85pt;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre42 {
+    display: table-row;
+    height: 0.4in;
+    vertical-align: inherit
+    }
+.calibre43 {
+    display: table-cell;
+    height: 0.4in;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 1in;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre44 {
+    display: table-cell;
+    height: 0.4in;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 314.85pt;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre45 {
+    display: table-row;
+    height: 28.95pt;
+    vertical-align: inherit
+    }
+.calibre46 {
+    display: table-cell;
+    height: 28.95pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 314.85pt;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre47 {
+    display: table-cell;
+    height: 18.6pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 1in;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre48 {
+    display: table-row;
+    height: 28.9pt;
+    vertical-align: inherit
+    }
+.calibre49 {
+    display: table-cell;
+    height: 28.9pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.3pt;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: black solid 1.5pt
+    }
+.calibre50 {
+    display: table-cell;
+    height: 28.9pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 1in;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre51 {
+    display: table-cell;
+    height: 28.9pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 314.85pt;
+    padding: 1.05pt 3.8pt 0 4.55pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre52 {
+    display: table-row;
+    height: 14.65pt;
+    vertical-align: inherit
+    }
+.calibre53 {
+    background: silver;
+    display: table-cell;
+    height: 14.65pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 71.65pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: black solid 1.5pt;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: black solid 1.5pt
+    }
+.calibre54 {
+    background: silver;
+    display: table-cell;
+    height: 14.65pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.5pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: black solid 1.5pt;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre55 {
+    background: silver;
+    display: table-cell;
+    height: 14.65pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 351pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: black solid 1.5pt;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre56 {
+    display: table-row;
+    height: 67.2pt;
+    vertical-align: inherit
+    }
+.calibre57 {
+    display: table-cell;
+    height: 67.2pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 71.65pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: black solid 1.5pt
+    }
+.calibre58 {
+    display: table-cell;
+    height: 67.2pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.5pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre59 {
+    display: table-cell;
+    height: 67.2pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 351pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre60 {
+    font-family: "Arial", sans-serif;
+    font-size: 0.83333em
+    }
+.calibre61 {
+    font-size: 0.75em
+    }
+.calibre62 {
+    font-size: 0.83333em
+    }
+.calibre63 {
+    display: table-row;
+    height: 67.1pt;
+    vertical-align: inherit
+    }
+.calibre64 {
+    display: table-cell;
+    height: 67.1pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.5pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre65 {
+    display: table-cell;
+    height: 67.1pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 351pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre66 {
+    display: table-row;
+    height: 36.05pt;
+    vertical-align: inherit
+    }
+.calibre67 {
+    display: table-cell;
+    height: 36.05pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.5pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre68 {
+    display: table-cell;
+    height: 36.05pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 351pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre69 {
+    display: table-row;
+    height: 68.65pt;
+    vertical-align: inherit
+    }
+.calibre70 {
+    display: table-cell;
+    height: 68.65pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 71.65pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1.5pt;
+    border-left: black solid 1.5pt
+    }
+.calibre71 {
+    display: table-cell;
+    height: 68.65pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.5pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre72 {
+    display: table-cell;
+    height: 68.65pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 351pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre73 {
+    display: table-row;
+    height: 100pt;
+    vertical-align: inherit
+    }
+.calibre74 {
+    display: table-cell;
+    height: 100pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.5pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre75 {
+    display: table-cell;
+    height: 100pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 351pt;
+    padding: 1.25pt 1.75pt 0 5.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre76 {
+    display: table-row;
+    height: 14.5pt;
+    vertical-align: inherit
+    }
+.calibre77 {
+    background: silver;
+    display: table-cell;
+    height: 14.5pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 67.2pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: black solid 1pt;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: black solid 1.5pt
+    }
+.calibre78 {
+    background: silver;
+    display: table-cell;
+    height: 14.5pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: black solid 1pt;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre79 {
+    background: silver;
+    display: table-cell;
+    height: 14.5pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 297pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: black solid 1pt;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre80 {
+    display: table-row;
+    height: 63.5pt;
+    vertical-align: inherit
+    }
+.calibre81 {
+    display: table-cell;
+    height: 63.5pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 67.2pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: black solid 1.5pt
+    }
+.calibre82 {
+    display: table-cell;
+    height: 63.5pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre83 {
+    display: table-cell;
+    height: 63.5pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 297pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre84 {
+    display: table-row;
+    height: 90.85pt;
+    vertical-align: inherit
+    }
+.calibre85 {
+    display: table-cell;
+    height: 90.85pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre86 {
+    display: table-cell;
+    height: 90.85pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 297pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre87 {
+    color: #333;
+    font-size: 0.83333em;
+    line-height: 1.2
+    }
+.calibre88 {
+    display: table-row;
+    height: 71.65pt;
+    vertical-align: inherit
+    }
+.calibre89 {
+    display: table-cell;
+    height: 71.65pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre90 {
+    display: table-cell;
+    height: 71.65pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 297pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre91 {
+    display: table-row;
+    height: 50.5pt;
+    vertical-align: inherit
+    }
+.calibre92 {
+    display: table-cell;
+    height: 50.5pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre93 {
+    display: table-cell;
+    height: 50.5pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 297pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre94 {
+    display: table-row;
+    height: 53.65pt;
+    vertical-align: inherit
+    }
+.calibre95 {
+    display: table-cell;
+    height: 53.65pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre96 {
+    display: table-cell;
+    height: 53.65pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 297pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre97 {
+    display: table-row;
+    height: 42.35pt;
+    vertical-align: inherit
+    }
+.calibre98 {
+    display: table-cell;
+    height: 42.35pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre99 {
+    display: table-cell;
+    height: 42.35pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 297pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre100 {
+    display: table-row;
+    height: 42.25pt;
+    vertical-align: inherit
+    }
+.calibre101 {
+    display: table-cell;
+    height: 42.25pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 67.2pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: black solid 1.5pt
+    }
+.calibre102 {
+    display: table-cell;
+    height: 42.25pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre103 {
+    display: table-cell;
+    height: 42.25pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 297pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre104 {
+    display: table-row;
+    height: 44.05pt;
+    vertical-align: inherit
+    }
+.calibre105 {
+    display: table-cell;
+    height: 44.05pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre106 {
+    display: table-cell;
+    height: 44.05pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 297pt;
+    padding: 1.2pt 3.65pt 0 4.6pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1pt;
+    border-left: currentColor none medium
+    }
+.calibre107 {
+    display: table-row;
+    height: 11.45pt;
+    vertical-align: inherit
+    }
+.calibre108 {
+    background: #BFBFBF;
+    display: table-cell;
+    height: 11.45pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 67.35pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border: black solid 1.5pt
+    }
+.calibre109 {
+    background: #BFBFBF;
+    display: table-cell;
+    height: 11.45pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border-top: black solid 1.5pt;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre110 {
+    background: #BFBFBF;
+    display: table-cell;
+    height: 11.45pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 296.85pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border-top: black solid 1.5pt;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre111 {
+    display: table-row;
+    height: 21.8pt;
+    vertical-align: inherit
+    }
+.calibre112 {
+    display: table-cell;
+    height: 21.8pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 67.35pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: black solid 1.5pt
+    }
+.calibre113 {
+    display: table-cell;
+    height: 21.8pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre114 {
+    display: table-cell;
+    height: 21.8pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 296.85pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre115 {
+    display: table-row;
+    height: 21.7pt;
+    vertical-align: inherit
+    }
+.calibre116 {
+    display: table-cell;
+    height: 21.7pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 296.85pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre117 {
+    display: table-row;
+    height: 0.3in;
+    vertical-align: inherit
+    }
+.calibre118 {
+    display: table-cell;
+    height: 0.3in;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 296.85pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre119 {
+    display: table-row;
+    height: 11.9pt;
+    vertical-align: inherit
+    }
+.calibre120 {
+    display: table-cell;
+    height: 11.9pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 296.85pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre121 {
+    display: table-row;
+    height: 31.45pt;
+    vertical-align: inherit
+    }
+.calibre122 {
+    display: table-cell;
+    height: 31.45pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre123 {
+    display: table-cell;
+    height: 31.45pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 296.85pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre124 {
+    display: table-row;
+    height: 21.75pt;
+    vertical-align: inherit
+    }
+.calibre125 {
+    display: table-cell;
+    height: 21.75pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 139.5pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre126 {
+    display: table-cell;
+    height: 21.75pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 296.85pt;
+    padding: 1pt 7.45pt 0 4.5pt;
+    border-top: currentColor none medium;
+    border-right: black solid 1.5pt;
+    border-bottom: black solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.calibre127 {
+    display: table-row;
+    height: 304.85pt;
+    vertical-align: inherit
+    }
+.calibre128 {
+    display: table-cell;
+    height: 304.85pt;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 509.3pt;
+    padding: 0 10.55pt 0.95pt 10.15pt;
+    border: black solid 1pt
+    }
+.grame {
+    line-height: 1.2
+    }
+.msonormal {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: -0.5pt;
+    margin: 0 25.3pt 6pt 16.2pt
+    }
+.msonormal1 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: -0.5pt;
+    margin: 0 25.45pt 6pt 16.2pt
+    }
+.msonormal2 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 0 6pt -0.25pt
+    }
+.msonormal3 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -0.5pt;
+    margin: 0 14.75pt 6pt 0.5pt
+    }
+.msonormal4 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 9.3pt 6pt 0.25in
+    }
+.msonormal5 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 9.45pt 6pt 0.25in
+    }
+.msonormal6 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 9.35pt 6pt 0.25in
+    }
+.msonormal7 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 9.55pt 6pt 0.25in
+    }
+.msonormal8 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 0.75pt 6pt 0.25in
+    }
+.msonormal9 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -0.5pt;
+    margin: 0 14.75pt 6pt 18.5pt
+    }
+.msonormal10 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 9.65pt 6pt 45.2pt
+    }
+.msonormal11 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 9.3pt 6pt 45.2pt
+    }
+.msonormal12 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt
+    }
+.msonormal13 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 0.25in
+    }
+.msonormal14 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt -0.15pt
+    }
+.msonormal15 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: right;
+    text-indent: 0;
+    margin: 0 33.55pt 6pt 0
+    }
+.msonormal16 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 9.45pt 6pt 45.2pt
+    }
+.msonormal17 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 14.75pt 6pt 0.25in
+    }
+.msonormal18 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 9.55pt 6pt 45.2pt
+    }
+.msonormal19 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 9.7pt 6pt 0.5in
+    }
+.msonormal20 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 9.65pt 6pt 0.5in
+    }
+.msonormal21 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 9.55pt 6pt 0.5in
+    }
+.msonormal22 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 9.35pt 6pt 0.5in
+    }
+.msonormal23 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0.75pt 6pt 0.5in
+    }
+.msonormal24 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 9.5pt 6pt 0.5in
+    }
+.msonormal25 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 9.45pt 6pt 0.5in
+    }
+.msonormal26 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 9.4pt 6pt 0.5in
+    }
+.msonormal27 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 14.75pt 6pt 0.75in
+    }
+.msonormal28 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 9.1pt 6pt 45.2pt
+    }
+.msonormal29 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 9.1pt 6pt 1in
+    }
+.msonormal30 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0.75pt 6pt 1in
+    }
+.msonormal31 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 45.4pt
+    }
+.msonormal32 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 9.35pt 6pt 1in
+    }
+.msonormal33 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 9.3pt 6pt 1in
+    }
+.msonormal34 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 14.75pt 6pt 1in
+    }
+.msonormal35 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 10.05pt 6pt 1in
+    }
+.msonormal36 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0.75pt 6pt 0.75in
+    }
+.msonormal37 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 0.75in
+    }
+.msonormal38 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.75pt 6pt 50.85pt
+    }
+.msonormal39 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.75pt 6pt 1in
+    }
+.msonormal40 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.15pt 6pt 1in
+    }
+.msonormal41 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.25pt 6pt 49.95pt
+    }
+.msonormal42 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.25pt 6pt 1in
+    }
+.msonormal43 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.75pt 6pt 51.7pt
+    }
+.msonormal44 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 14.75pt 6pt 49.6pt
+    }
+.msonormal45 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.75pt 6pt 49.6pt
+    }
+.msonormal46 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 49.6pt
+    }
+.msonormal47 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -0.5pt;
+    margin: 0 14.75pt 6pt 50.1pt
+    }
+.msonormal48 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.9pt 6pt 1in
+    }
+.msonormal49 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 13.95pt 6pt 1in
+    }
+.msonormal50 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.95pt 6pt 1in
+    }
+.msonormal51 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.85pt 6pt 1in
+    }
+.msonormal52 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 32.15pt 6pt 1in
+    }
+.msonormal53 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 13pt 6pt 49.6pt
+    }
+.msonormal54 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 13pt 6pt 1in
+    }
+.msonormal55 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.05pt 6pt 1in
+    }
+.msonormal56 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -0.5pt;
+    margin: 0 14.75pt 6pt 34.45pt
+    }
+.msonormal57 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -0.5pt;
+    margin: 0 14.75pt 6pt 5.05pt
+    }
+.msonormal58 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.85pt 6pt 0.25in
+    }
+.msonormal59 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0.75pt 6pt 0.25in
+    }
+.msonormal60 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.15pt 6pt 0.25in
+    }
+.msonormal61 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12pt 6pt 0.5in
+    }
+.msonormal62 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.05pt 6pt 0.75in
+    }
+.msonormal63 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 0.75pt 6pt 49.6pt
+    }
+.msonormal64 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.9pt 6pt 0.5in
+    }
+.msonormal65 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.05pt 6pt 0.5in
+    }
+.msonormal66 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.45pt 6pt 0.5in
+    }
+.msonormal67 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.1pt 6pt 0.25in
+    }
+.msonormal68 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.2pt 6pt 0.25in
+    }
+.msonormal69 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 0.75pt 6pt 4.55pt
+    }
+.msonormal70 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.9pt 6pt 0.25in
+    }
+.msonormal71 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.25pt 6pt 0.25in
+    }
+.msonormal72 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.4pt 6pt 0.5in
+    }
+.msonormal73 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.35pt 6pt 0.5in
+    }
+.msonormal74 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0.65pt 6pt 0.5in
+    }
+.msonormal75 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.95pt 6pt 0.25in
+    }
+.msonormal76 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.4pt 6pt 0.25in
+    }
+.msonormal77 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0.65pt 6pt 0.25in
+    }
+.msonormal78 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.35pt 6pt 0.25in
+    }
+.msonormal79 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.65pt 6pt 4.55pt
+    }
+.msonormal80 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.75pt 6pt 0.25in
+    }
+.msonormal81 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.8pt 6pt 0.25in
+    }
+.msonormal82 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.65pt 6pt 0.25in
+    }
+.msonormal83 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.05pt 6pt 0
+    }
+.msonormal84 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12.05pt 6pt 0.25in
+    }
+.msonormal85 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 26.2pt
+    }
+.msonormal86 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -213.75pt;
+    margin: 0 11.8pt 6pt 232.35pt
+    }
+.msonormal87 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.8pt 6pt 0.5in
+    }
+.msonormal88 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 0 6pt 5.05pt
+    }
+.msonormal89 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.95pt 6pt 0.5in
+    }
+.msonormal90 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.85pt 6pt 0.5in
+    }
+.msonormal91 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 12pt 6pt 0.75in
+    }
+.msonormal92 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.85pt 6pt 0.75in
+    }
+.msonormal93 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.95pt 6pt 0.75in
+    }
+.msonormal94 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.8pt 6pt 0.75in
+    }
+.msonormal95 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.9pt 6pt 0.75in
+    }
+.msonormal96 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -0.5pt;
+    margin: 0 14.75pt 6pt 23.1pt
+    }
+.msonormal97 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 11.75pt 6pt 0.5in
+    }
+.msonormal98 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 14.75pt 6pt 5.05pt
+    }
+.msonormal99 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -0.5pt;
+    margin: 0 0.65pt 6pt 50.1pt
+    }
+.msonormal100 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 12pt 6pt 49.6pt
+    }
+.msonormal101 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 0.75pt 6pt 22.6pt
+    }
+.msonormal102 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 12.05pt 6pt 49.6pt
+    }
+.msonormal103 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.85pt 6pt 49.6pt
+    }
+.msonormal104 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.95pt 6pt 49.6pt
+    }
+.msonormal105 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 12.05pt 6pt 22.6pt
+    }
+.msonormal106 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 12.1pt 6pt 49.6pt
+    }
+.msonormal107 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.8pt 6pt 49.6pt
+    }
+.msonormal108 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.8pt 6pt 22.6pt
+    }
+.msonormal109 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.75pt 6pt 22.6pt
+    }
+.msonormal110 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.95pt 6pt 22.6pt
+    }
+.msonormal111 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -0.5pt;
+    margin: 0 14.75pt 6pt 50.45pt
+    }
+.msonormal112 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: right;
+    text-indent: 0;
+    margin: 0 0 6pt
+    }
+.msonormal113 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -0.5pt;
+    margin: 0 14.75pt 6pt 0.2in
+    }
+.msonormal114 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -0.5pt;
+    margin: 0 14.75pt 6pt 14.55pt
+    }
+.msonormal115 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 1.1pt 6pt 0
+    }
+.msonormal116 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 2.4pt
+    }
+.msonormal117 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0.5pt 6pt 0
+    }
+.msonormal118 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 6pt
+    }
+.msonormal119 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -9pt;
+    margin: 0 0 6pt 9pt
+    }
+.msonormal120 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0.95pt 6pt 0
+    }
+.msonormal121 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 9pt
+    }
+.msonormal122 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 3pt
+    }
+.msonormal123 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 1.05pt 6pt 0
+    }
+.msonormal124 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 2.35pt
+    }
+.msonormal125 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -9pt;
+    margin: 0 0.55pt 6pt 9pt
+    }
+.msonormal126 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 1.8pt
+    }
+.msonormal127 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 4.55pt
+    }
+.msonormal128 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 12.15pt 6pt 49.6pt
+    }
+.msonormal129 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -0.5pt;
+    margin: 0 14.75pt 6pt 14.9pt
+    }
+.msonormal130 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 4.05pt 6pt 0
+    }
+.msonormal131 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0.05in 6pt 0
+    }
+.msonormal132 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 3.4pt 6pt 0
+    }
+.msonormal133 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 0.55pt
+    }
+.msonormal134 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -8.15pt;
+    margin: 0 0 6pt 8.15pt
+    }
+.msonormal135 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 4pt 6pt 0
+    }
+.msonormal136 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 3.95pt 6pt 0
+    }
+.msonormal137 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 4.2pt 6pt 0
+    }
+.msonormal138 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 1pt 6pt 0
+    }
+.msonormal139 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 3.9pt 6pt 0
+    }
+.msonormal140 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 8.9pt
+    }
+.msonormal141 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 1.35pt 6pt 0
+    }
+.msonormal142 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0.8pt 6pt 0
+    }
+.msonormal143 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0.75pt 6pt 0
+    }
+.msonormal144 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 1.45pt 6pt 0
+    }
+.msonormal145 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 1.4pt 6pt 0
+    }
+.msonormal146 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 2.45pt
+    }
+.msonormal147 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -9pt;
+    margin: 0 0 6pt 9pt
+    }
+.msonormal148 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt 1.5pt
+    }
+.msonormal149 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 1.15pt 6pt 0
+    }
+.msonormal150 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 6pt 2.5pt
+    }
+.msonormal151 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 6pt 2.85pt
+    }
+.msonormal152 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 6pt 3.05pt
+    }
+.msonormal153 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 6pt 2.8pt
+    }
+.msonormal154 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 6pt 2.65pt
+    }
+.msonormal155 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 6pt 2.75pt
+    }
+.msonormal156 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.9pt 6pt 22.6pt
+    }
+.msonormal157 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 47.8pt 6pt 50.1pt
+    }
+.msonormal158 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 48pt 6pt 50.1pt
+    }
+.msonormal159 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 47.9pt 6pt 50.1pt
+    }
+.msonormal160 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 48.05pt 6pt 50.1pt
+    }
+.msonormal161 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 27.9pt 6pt 50.1pt
+    }
+.msonormal162 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 78.95pt 6pt 292.6pt
+    }
+.msonormal163 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 12pt 6pt 22.6pt
+    }
+.msonormal164 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.85pt 6pt 22.6pt
+    }
+.msonormal165 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 0.75pt 6pt 292.6pt
+    }
+.msonormal166 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 0 6pt 50.1pt
+    }
+.msonormal167 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 15.8pt 6pt 292.6pt
+    }
+.msonormal168 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: -0.5pt;
+    margin: 0 0 6pt 122.7pt
+    }
+.msonormal169 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: -0.5pt;
+    margin: 0 0 6pt 139.4pt
+    }
+.msonormal170 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 48.3pt 6pt 50.1pt
+    }
+.msonormal171 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: right;
+    text-indent: -0.5pt;
+    margin: 0 12pt 6pt 0.5pt
+    }
+.msonormal172 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 11.7pt 6pt 22.6pt
+    }
+.msonormal173 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 47.75pt 6pt 50.1pt
+    }
+.msonormal174 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: -0.5pt;
+    margin: 0 0 6pt 159.25pt
+    }
+.msonormal175 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 30.4pt 6pt 50.1pt
+    }
+.msonormal176 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 45.2pt 6pt 292.6pt
+    }
+.msonormal177 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -0.5pt;
+    margin: 0 10pt 6pt 293.1pt
+    }
+.msonormal178 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 52.25pt 6pt 50.1pt
+    }
+.msonormal179 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: -0.5pt;
+    margin: 0 0 6pt 170.5pt
+    }
+.msonormal180 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 150%;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 129.85pt 6pt 129.7pt
+    }
+.msonormal181 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 150%;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 199.15pt 6pt
+    }
+.msonormal182 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 2.8pt 6pt 0
+    }
+.msonormal183 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 2.45pt 6pt 0
+    }
+.msonormal184 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 12.25pt 6pt 22.6pt
+    }
+.msonormal185 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 12.1pt 6pt 22.6pt
+    }
+.msonormal186 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -0.5pt;
+    margin: 0 5.5pt 6pt 50.1pt
+    }
+.msonormal187 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: -0.5pt;
+    margin: 0 0 6pt 149.9pt
+    }
+.msonormal188 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 12.2pt 6pt 22.6pt
+    }
+.msonormal189 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.1pt;
+    margin: 0 0 6pt
+    }
+.msonormaltable {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-left: 14.7pt;
+    margin-top: 0;
+    text-indent: 0;
+    width: 463.2pt
+    }
+.msonormaltable1 {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-left: 14.7pt;
+    margin-top: 0;
+    text-indent: 0;
+    width: 499.2pt
+    }
+.msonormaltable2 {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-left: 0.25pt;
+    margin-top: 0;
+    text-indent: 0;
+    width: 503.75pt
+    }
+.msonormaltable3 {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-left: 3.4pt;
+    margin-top: 0;
+    text-indent: 0;
+    width: 509.3pt
+    }
+.wordsection {
+    display: block;
+    page: WordSection1
+    }
+.pcalibre:visited {
+    color: purple;
+    text-decoration: underline
+    }
+.pcalibre1:link {
+    color: blue;
+    text-decoration: underline
+    }
