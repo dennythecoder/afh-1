@@ -3,7 +3,6 @@ import Vuex from "vuex";
 import router from "../router";
 import reader from "./reader";
 import pages from "./pages";
-import bookmarks from "./bookmarks";
 import searcher from "./searcher";
 
 Vue.use(Vuex);
@@ -15,7 +14,6 @@ const vuexStore = new Vuex.Store({
   modules: {
     reader,
     pages,
-    bookmarks,
     searcher
   }
 });

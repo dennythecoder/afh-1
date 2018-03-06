@@ -60,7 +60,7 @@ export default {
     this.isToolbarHidden = true;
     this.$store.commit("saveLastLocation");
   },
-  markHighlights() {},
+
   removeContextMenu(win) {
     win.oncontextmenu = (e) => {
       e.preventDefault();

@@ -6,5 +6,6 @@ export default {
   chapters: [],
   isBookInitialized: false,
   isTextSelectable: false,
-  highlightColor: "#3cc"
+  highlightColor: "#3cc",
+  bookmarks:[]
 };

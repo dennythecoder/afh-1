@@ -5,7 +5,7 @@ export default {
   isBookInitialized: (state) => state.isBookInitialized,
   lastLocation: (state) => state.lastLocation,
   highlightColor: (state) => state.highlightColor,
-
+  bookmarks: state=> state.bookmarks,
   isTextSelectable(state) {
     return state.isTextSelectable;
   }
