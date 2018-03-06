@@ -7,7 +7,7 @@ import watch from "./watch";
 export default {
   data() {
     return {
-      book: {},
+      book: undefined,
       isTextSelectable: false
     };
   },
@@ -19,6 +19,19 @@ export default {
         };
       } else {
         return {};
+      }
+    },
+    isInitialized() {
+      return this.book !== undefined;
+    },
+    readerStyle() {
+      if (this.isInitialized && this.$route.name !== "reader") {
+        console.log(true);
+        return {
+          position: "absolute",
+          top: 0,
+          zIndex: -1
+        };
       }
     }
   },
@@ -69,7 +82,7 @@ export default {
 
 <template>
 
-  <q-page id="reader">
+  <q-page id="reader" :style="readerStyle">
       <div id="content-overlay" v-touch-swipe="onSwipe" v-touch-hold="onHold" v-if="!isTextSelectable" :style="styleObj"></div>
       <div id="content" ref="content" ></div>
   </q-page>
