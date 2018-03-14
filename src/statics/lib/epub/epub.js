@@ -4515,7 +4515,7 @@ EPUBJS.Hooks = (function () {
 
       _.each(plugs, function (hook) {
         this.registerHook(plugType, hook);
-      }, this);
+      }.bind(this));
     }
   };
 

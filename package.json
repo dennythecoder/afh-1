@@ -10,7 +10,9 @@
     "lint": "eslint --fix --ext .js,.vue src",
     "test": "echo \"No test specified\" && exit 0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "hammerjs": "^2.0.8"
+  },
   "devDependencies": {
     "babel-eslint": "8.2.1",
     "eslint": "4.15.0",

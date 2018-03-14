@@ -52,7 +52,6 @@ export default {
     state.isTextSelectable = !state.isTextSelectable;
   },
   saveLastLocation(state) {
-    
     const cfi = state.book.getCurrentLocationCfi();
     let result = /epubcfi\((.*)\)/.exec(cfi);
     let location = result[1].replace(/\//g, "-");
@@ -100,6 +99,14 @@ export default {
       if (bookmark === argBookmark) {
         state.bookmarks.splice(i, 1);
         localStorage.setItem("bookmarks", JSON.stringify(state.bookmarks));
+      }
+    }
+  },
+  initBookmarks(state) {
+    if (state.bookmarks.length === 0) {
+      const bookmarkJson = localStorage.getItem("bookmarks");
+      if (bookmarkJson) {
+        Vue.set(state, "bookmarks", JSON.parse(bookmarkJson));
       }
     }
   }

@@ -1,10 +1,14 @@
 
 <script>
 import init from "./init";
-import highlights from "./highlights";
+import CreateHighlightManager from "../../highlight";
 import watch from "./watch";
+import HighlightButton from "../../components/highlight-button";
 
 export default {
+  components: {
+    HighlightButton
+  },
   data() {
     return {
       book: undefined,
@@ -12,32 +16,23 @@ export default {
     };
   },
   computed: {
-    styleObj() {
-      if (this.$route.name !== "reader") {
-        return {
-          "background-color": "white"
-        };
-      } else {
-        return {};
-      }
-    },
+
     isInitialized() {
       return this.book !== undefined;
     },
     readerStyle() {
       if (this.isInitialized && this.$route.name !== "reader") {
-        console.log(true);
         return {
           position: "absolute",
           top: 0,
-          zIndex: -1
+          zIndex: -2
         };
       }
     }
   },
   methods: {
     ...init,
-    ...highlights,
+
     onSwipe(e) {
       if (e.direction === "right") {
         this.book.prevPage();
@@ -65,6 +60,10 @@ export default {
         );
       }
     },
+    markHighlights() {
+      const hm = CreateHighlightManager(this.$store);
+      hm.markHighlights();
+    },
     clearHighlights() {
       let doc = document.querySelector("iframe").contentDocument;
       let highlights = doc.querySelectorAll("mark.highlight.search");
@@ -83,8 +82,10 @@ export default {
 <template>
 
   <q-page id="reader" :style="readerStyle">
-      <div id="content-overlay" v-touch-swipe="onSwipe" v-touch-hold="onHold" v-if="!isTextSelectable" :style="styleObj"></div>
-      <div id="content" ref="content" ></div>
+    <div id="content-overlay" v-if="$route.name !== 'reader'" ></div>
+    <div id="content" ref="content" ></div>
+
+      <highlight-button v-show="isTextSelectable"/>
   </q-page>
 
 </template>

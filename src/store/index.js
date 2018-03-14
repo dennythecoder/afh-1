@@ -31,6 +31,7 @@ function init(store) {
   if (jsonHighlights) {
     Vue.set(store.state, "highlights", JSON.parse(jsonHighlights));
   }
+  console.log(store);
   return store;
 }
 

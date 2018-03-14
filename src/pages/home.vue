@@ -6,7 +6,7 @@
         <list-button @click="$router.push('toc')" >Chapters</list-button>
         <list-button @click="$router.push('searcher')">Search</list-button>
         <list-button v-if="hasLastViewed" @click="gotoLastViewed">Continue Reading</list-button>
-        <list-button v-if="hasBookmarks" @click="gotoBookmarks">Bookmarks</list-button>
+        <list-button v-if="hasBookmarks" @click="$router.push('bookmarks')">Bookmarks</list-button>
         <list-button v-if="hasHighlights" @click="gotoHighlights">Highlights</list-button>
         </div>	
 	</div>
@@ -14,6 +14,7 @@
 
 <script>
 import ListButton from "../components/list-button";
+import { mapGetters } from "vuex";
 export default {
   components: {
     ListButton
@@ -28,6 +29,7 @@ export default {
     }
   },
   computed: {
+    ...mapGetters(["bookmarks"]),
     hasLastViewed() {
       let lastLocation = localStorage.getItem("lastLocation");
       return lastLocation && true;
@@ -37,6 +39,11 @@ export default {
     },
     hasHighlights() {
       return this.$store.getters.highlights.length > 0;
+    }
+  },
+  created() {
+    if (this.bookmarks.length === 0) {
+      this.$store.commit("initBookmarks");
     }
   }
 };

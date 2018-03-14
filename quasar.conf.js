@@ -58,7 +58,7 @@ module.exports = function(ctx) {
         "QInput"
       ],
       directives: ["Ripple", "TouchSwipe", "TouchHold"],
-      plugins: ["Notify"]
+      plugins: ["Notify", "Dialog"]
     },
     // animations: 'all' --- includes all animations
     animations: [],

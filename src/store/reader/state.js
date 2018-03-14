@@ -7,5 +7,6 @@ export default {
   isBookInitialized: false,
   isTextSelectable: false,
   highlightColor: "#3cc",
-  bookmarks:[]
+  highlights: [],
+  bookmarks: []
 };

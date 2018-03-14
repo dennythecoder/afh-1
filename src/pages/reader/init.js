@@ -1,4 +1,7 @@
+import { TouchSwipe } from "quasar";
+import Hammer from "hammerjs";
 const ePub = window.ePub;
+
 
 export default {
   init() {
@@ -48,6 +51,27 @@ export default {
         this.isTextSelectable = false;
       }
     });
+    setTimeout(()=>{this.appendSwipeHandler()},500);
+
+  },
+  appendSwipeHandler(){
+
+    const iframe = document.querySelector('iframe');
+    const doc = iframe.contentDocument;
+    doc.body.style.height = "100%";
+    if(doc.body._swipeHandled) return;
+    doc.body._swipeHandled = true;
+    delete Hammer.defaults.cssProps.userSelect;
+    let hammer = new Hammer(doc.body);
+    hammer.on("swipe", (e)=>{
+      if(e.direction === 2){
+        this.book.nextPage();
+      } else if(e.direction === 4){
+        this.book.prevPage();
+      }
+    });
+    return;
+
   },
   locationChangeHandler(location) {
     this.appendHandlers();
