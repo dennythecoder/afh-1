@@ -4,12 +4,12 @@ export default {
   },
   getters: {
     searchTerm: (state) => state.searchTerm,
-    searchResults(state, getters, rootState) {
+    searchResults(state, getters) {
       let result = [];
       let searchTerm = state.searchTerm;
 
       if (searchTerm === "") return result;
-      const pages = rootState.pages.pages;
+      const pages = state.pages;
 
       for (var i = 0; i < pages.length; i++) {
         let page = pages[i];
