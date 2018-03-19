@@ -7,7 +7,7 @@
         <list-button @click="$router.push('searcher')">Search</list-button>
         <list-button v-if="hasLastViewed" @click="gotoLastViewed">Continue Reading</list-button>
         <list-button v-if="hasBookmarks" @click="$router.push('bookmarks')">Bookmarks</list-button>
-        <list-button v-if="hasHighlights" @click="gotoHighlights">Highlights</list-button>
+        <list-button v-if="hasHighlights" @click="$router.push('highlights')">Highlights</list-button>
         </div>	
 	</div>
 </template>

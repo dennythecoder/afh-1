@@ -2,7 +2,7 @@
   <transition name="fade">
     <div class="highlight-float-button" >
       <q-btn round color="pink" @click="highlight">
-        <q-icon name="fa-pencil" />
+        <q-icon name="fa-pencil-alt" />
       </q-btn>
     </div>
   </transition>

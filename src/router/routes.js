@@ -11,6 +11,7 @@ addRoute("home");
 addRoute("toc");
 addRoute("searcher");
 addRoute("bookmarks");
+addRoute("highlights");
 routes.push({
   path: "/reader/:cfi?",
   name: "reader",

@@ -9,13 +9,27 @@ Vue.use(Vuex);
 
 const vuexStore = new Vuex.Store({
   state: {
-    router
+    router,
+    ...reader.state,
+    ...pages.state,
+    ...searcher.state
   },
-  modules: {
-    reader,
-    pages,
-    searcher
+  getters:{
+    ...reader.getters,
+    ...pages.getters,
+    ...searcher.getters
+  },
+  mutations:{
+    ...reader.mutations,
+    ...pages.mutations,
+    ...searcher.mutations
+  },
+  actions: {
+    ...reader.actions,
+    ...pages.actions,
+    ...searcher.actions
   }
+
 });
 
 function init(store) {
@@ -31,7 +45,7 @@ function init(store) {
   if (jsonHighlights) {
     Vue.set(store.state, "highlights", JSON.parse(jsonHighlights));
   }
-  console.log(store);
+  window.store = store;
   return store;
 }
 
