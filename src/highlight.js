@@ -14,6 +14,7 @@ window.destroyHighlight = function(guid) {
   })
   .then(()=>{
     store.commit("destroyHighlight", { guid: guid });
+    new HighlightManager(store).markHighlights()
   });
 
 
