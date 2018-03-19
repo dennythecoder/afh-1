@@ -1,18 +1,22 @@
 import { Dialog } from "quasar";
+import store from './store'
+
 
 window.destroyHighlight = function(guid) {
+
   Dialog.create({
     title: "Delete highlight?",
-    buttons: [
-      {
-        label: "Yes",
-        handler() {
-          window.top.store.commit("destroyHighlight", { guid: guid });
-        }
-      },
-      "No"
-    ]
+    ok: {
+      push:true,
+      label:"Yes",
+    },
+    cancel: true
+  })
+  .then((v)=>{
+    store.commit("destroyHighlight", { guid: guid });
   });
+
+
 };
 
 class HighlightManager {
