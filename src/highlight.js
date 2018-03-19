@@ -12,7 +12,7 @@ window.destroyHighlight = function(guid) {
     },
     cancel: true
   })
-  .then((v)=>{
+  .then(()=>{
     store.commit("destroyHighlight", { guid: guid });
   });
 
