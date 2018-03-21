@@ -1,4 +1,5 @@
 import Vue from "vue";
+import { Notify } from 'quasar';
 
 function getChapterName(href, chapters) {
   for (let i = 0; i < chapters.length; i += 1) {
@@ -79,6 +80,9 @@ export default {
     const bookmark = state.lastLocation;
     state.bookmarks.push(bookmark);
     localStorage.setItem("bookmarks", JSON.stringify(state.bookmarks));
+    Notify.create({
+      message:'Bookmark created'
+    })
   },
   destroyBookmark(state, argBookmark) {
     if (argBookmark) {
@@ -92,6 +96,9 @@ export default {
         }
       }
     }
+    Notify.create({
+      message:'Bookmark removed'
+    })
   },
   destroyBookmarkByArg(state, argBookmark) {
     for (let i = 0; i < state.bookmarks.length; i += 1) {

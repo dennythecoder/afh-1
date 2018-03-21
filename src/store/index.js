@@ -5,6 +5,8 @@ import reader from "./reader";
 import pages from "./pages";
 import searcher from "./searcher";
 
+const localStorage = window.localStorage || {getItem(){},setItem(){}};
+
 Vue.use(Vuex);
 
 const vuexStore = new Vuex.Store({

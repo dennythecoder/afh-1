@@ -16,8 +16,8 @@
         </q-toolbar-title>
 
        
-        <toolbar-button @click.native="createBookmark" name="fa-bookmark" color="white" @click="createBookmark" v-if="isReader && !isBookmarked" class="float-right" />
-        <toolbar-button @click.native="destroyBookmark" name="fa-bookmark" color="black" @click="destroyBookmark" v-if="isReader && isBookmarked" class="float-right" />
+        <toolbar-button name="fa-bookmark" color="white" @click="createBookmark" v-if="isReader && !isBookmarked" class="float-right" />
+        <toolbar-button name="fa-bookmark" color="black" @click="destroyBookmark" v-if="isReader && isBookmarked" class="float-right" />
 
       </q-toolbar>
     </q-layout-header>
