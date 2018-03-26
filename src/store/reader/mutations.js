@@ -10,6 +10,13 @@ function getChapterName(href, chapters) {
   return "";
 }
 
+function getCurrentPageOfChapter(state){
+  const book = state.book
+  const currentLocation = book.getCurrentLocationCfi()
+  const page = book.pagination.pageFromCfi(currentLocation)
+  return page
+}
+
 export default {
   addChapter(state, chapter) {
     state.chapters.push(chapter);
@@ -76,12 +83,15 @@ export default {
     state.highlightColor = color;
   },
   createBookmark(state) {
-    this.commit("saveLastLocation");
-    const bookmark = state.lastLocation;
-    state.bookmarks.push(bookmark);
-    localStorage.setItem("bookmarks", JSON.stringify(state.bookmarks));
+    this.commit("saveLastLocation")
+    const bookmark = state.lastLocation
+    const page = getCurrentPageOfChapter(state)
+    bookmark.page = page
+    state.bookmarks.push(bookmark)
+    localStorage.setItem("bookmarks", JSON.stringify(state.bookmarks))
     Notify.create({
-      message:'Bookmark created'
+      message:'Bookmark created',
+      timeout: 1000
     })
   },
   destroyBookmark(state, argBookmark) {
@@ -97,7 +107,8 @@ export default {
       }
     }
     Notify.create({
-      message:'Bookmark removed'
+      message:'Bookmark removed',
+      timeout: 1000
     })
   },
   destroyBookmarkByArg(state, argBookmark) {
