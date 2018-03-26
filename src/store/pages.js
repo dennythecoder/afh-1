@@ -13,14 +13,14 @@ export default {
     }
   },
   actions: {
-    generatePagination({ state, commit, rootState }) {
+    generatePagination({ state, commit }) {
       if (state.pages.length > 0) return;
       const localStoragePages = localStorage.getItem("pages");
       if (localStoragePages) {
         const pages = JSON.parse(localStoragePages);
         commit("setPages", pages);
       } else {
-        rootState.reader.book.generatePagination().then((pages) => {
+        state.book.generatePagination().then((pages) => {
           commit("setPages", pages);
           localStorage.setItem("pages", JSON.stringify(pages));
         });
