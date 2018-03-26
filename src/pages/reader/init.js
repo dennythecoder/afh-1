@@ -20,6 +20,9 @@ export default {
     this.book.renderTo("content").then(() => this.onBookReady());
   },
   onBookReady() {
+    let path = "../../ebook.css";
+    window.EPUBJS.core.addCss(path, null, this.book.renderer.doc.head);
+
     this.book.forceSingle();
     this.book.on("renderer:chapterDisplayed", this.appendHandlers);
     this.book.on("renderer:locationChanged", this.locationChangeHandler);
@@ -59,6 +62,7 @@ export default {
     const iframe = document.querySelector('iframe');
     const doc = iframe.contentDocument;
     doc.body.style.height = "100%";
+    this.$store.commit("saveLastLocation");
     if(doc.body._swipeHandled) return;
     doc.body._swipeHandled = true;
     delete Hammer.defaults.cssProps.userSelect;
