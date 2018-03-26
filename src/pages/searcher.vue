@@ -38,6 +38,7 @@
 </style>
 <script>
 import ListButton from "../components/list-button.vue";
+import { throttle } from "quasar";
 export default {
   data() {
     return {
@@ -72,6 +73,9 @@ export default {
     }
   },
   methods: {
+    searchPagesOnWatcher:throttle(function(){
+      this.searchPages();
+    }, 1000),
     searchPages() {
       this.$store.commit("searchPages", this.searchTerm);
     },
@@ -89,6 +93,11 @@ export default {
       } catch (e) {
         return "";
       }
+    }
+  },
+  watch:{
+    searchTerm(val){
+      this.searchPagesOnWatcher();
     }
   },
   components: {
