@@ -11,5 +11,8 @@ export default {
       this.markHighlights();
     }
     this.appendHandlers();
+  },
+  "$store.getters.searchTerm": function(val) {
+    if(val === '') this.clearHighlights()
   }
 };
