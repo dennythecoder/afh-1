@@ -15,7 +15,7 @@
           Air Force Handbook 1
         </q-toolbar-title>
 
-       
+       <toolbar-button color="white" @click="clearSearch" v-if="isReader && $store.getters.searchTerm !== ''">Clear Search</toolbar-button>
         <toolbar-button name="fa-bookmark" color="white" @click="createBookmark" v-if="isReader && !isBookmarked" class="float-right" />
         <toolbar-button name="fa-bookmark" color="black" @click="destroyBookmark" v-if="isReader && isBookmarked" class="float-right" />
 
@@ -81,6 +81,9 @@ export default {
     },
     destroyBookmark() {
       this.$store.commit("destroyBookmark");
+    },
+    clearSearch() {
+      this.$store.commit('searchPages', '');
     }
   },
   components: {
